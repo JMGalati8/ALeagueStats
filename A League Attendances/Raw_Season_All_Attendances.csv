@@ -1,0 +1,6956 @@
+"","Team1","Team2","Indicator1","Stadium_Clean1","Attendance_Clean1","Indicator2","Indicator3","Stadium_Clean2","Date","Attendance2","Attendance3","Attendance_Clean4","Season"
+"1","
+						Melbourne City FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R1","AAMI Park","9,589","
+						Hyundai A-League R1
+						AAMI Park
+					","Hyundai A-League R1","AAMI Park","2017-10-06T08:50:00+00:00","
+							Attendance
+							9,589
+						","Attendance","9,589","17/18"
+"2","
+						Central Coast Mariners
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R1","Central Coast Stadium","12,044","
+						Hyundai A-League R1
+						Central Coast Stadium
+					","Hyundai A-League R1","Central Coast Stadium","2017-10-07T06:35:00+00:00","
+							Attendance
+							12,044
+						","Attendance","12,044","17/18"
+"3","
+						Melbourne Victory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R1","Marvel Stadium","24,804","
+						Hyundai A-League R1
+						Marvel Stadium
+					","Hyundai A-League R1","Marvel Stadium","2017-10-07T08:50:00+00:00","
+							Attendance
+							24,804
+						","Attendance","24,804","17/18"
+"4","
+						Wellington Phoenix
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R1","Westpac Stadium","8,154","
+						Hyundai A-League R1
+						Westpac Stadium
+					","Hyundai A-League R1","Westpac Stadium","2017-10-08T04:00:00+00:00","
+							Attendance
+							8,154
+						","Attendance","8,154","17/18"
+"5","
+						Western Sydney Wanderers FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R1","Spotless Stadium","12,223","
+						Hyundai A-League R1
+						Spotless Stadium
+					","Hyundai A-League R1","Spotless Stadium","2017-10-08T07:00:00+00:00","
+							Attendance
+							12,223
+						","Attendance","12,223","17/18"
+"6","
+						Brisbane Roar FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R2","Suncorp Stadium","11,178","
+						Hyundai A-League R2
+						Suncorp Stadium
+					","Hyundai A-League R2","Suncorp Stadium","2017-10-13T08:50:00+00:00","
+							Attendance
+							11,178
+						","Attendance","11,178","17/18"
+"7","
+						Melbourne Victory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R2","Marvel Stadium","35,792","
+						Hyundai A-League R2
+						Marvel Stadium
+					","Hyundai A-League R2","Marvel Stadium","2017-10-14T08:50:00+00:00","
+							Attendance
+							35,792
+						","Attendance","35,792","17/18"
+"8","
+						Western Sydney Wanderers FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R2","Spotless Stadium","11,650","
+						Hyundai A-League R2
+						Spotless Stadium
+					","Hyundai A-League R2","Spotless Stadium","2017-10-14T06:35:00+00:00","
+							Attendance
+							11,650
+						","Attendance","11,650","17/18"
+"9","
+						Newcastle Jets
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R2","McDonald Jones Stadium","16,633","
+						Hyundai A-League R2
+						McDonald Jones Stadium
+					","Hyundai A-League R2","McDonald Jones Stadium","2017-10-15T06:00:00+00:00","
+							Attendance
+							16,633
+						","Attendance","16,633","17/18"
+"10","
+						Sydney FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R2","Allianz Stadium","11,284","
+						Hyundai A-League R2
+						Allianz Stadium
+					","Hyundai A-League R2","Allianz Stadium","2017-10-15T08:00:00+00:00","
+							Attendance
+							11,284
+						","Attendance","11,284","17/18"
+"11","
+						Adelaide United
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R3","Adelaide Oval","19,416","
+						Hyundai A-League R3
+						Adelaide Oval
+					","Hyundai A-League R3","Adelaide Oval","2017-10-20T08:50:00+00:00","
+							Attendance
+							19,416
+						","Attendance","19,416","17/18"
+"12","
+						Melbourne City FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R3","AAMI Park","9,091","
+						Hyundai A-League R3
+						AAMI Park
+					","Hyundai A-League R3","AAMI Park","2017-10-21T06:35:00+00:00","
+							Attendance
+							9,091
+						","Attendance","9,091","17/18"
+"13","
+						Sydney FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R3","Allianz Stadium","34,810","
+						Hyundai A-League R3
+						Allianz Stadium
+					","Hyundai A-League R3","Allianz Stadium","2017-10-21T08:50:00+00:00","
+							Attendance
+							34,810
+						","Attendance","34,810","17/18"
+"14","
+						Brisbane Roar FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R3","Suncorp Stadium","10,104","
+						Hyundai A-League R3
+						Suncorp Stadium
+					","Hyundai A-League R3","Suncorp Stadium","2017-10-22T06:00:00+00:00","
+							Attendance
+							10,104
+						","Attendance","10,104","17/18"
+"15","
+						Perth Glory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R3","HBF Park","12,167","
+						Hyundai A-League R3
+						HBF Park
+					","Hyundai A-League R3","HBF Park","2017-10-22T08:00:00+00:00","
+							Attendance
+							12,167
+						","Attendance","12,167","17/18"
+"16","
+						Sydney FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R4","Allianz Stadium","10,063","
+						Hyundai A-League R4
+						Allianz Stadium
+					","Hyundai A-League R4","Allianz Stadium","2017-10-27T08:50:00+00:00","
+							Attendance
+							10,063
+						","Attendance","10,063","17/18"
+"17","
+						Adelaide United
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R4","Coopers Stadium","11,689","
+						Hyundai A-League R4
+						Coopers Stadium
+					","Hyundai A-League R4","Coopers Stadium","2017-10-28T08:50:00+00:00","
+							Attendance
+							11,689
+						","Attendance","11,689","17/18"
+"18","
+						Wellington Phoenix
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R4","Westpac Stadium","7,018","
+						Hyundai A-League R4
+						Westpac Stadium
+					","Hyundai A-League R4","Westpac Stadium","2017-10-28T06:35:00+00:00","
+							Attendance
+							7,018
+						","Attendance","7,018","17/18"
+"19","
+						Central Coast Mariners
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R4","Central Coast Stadium","5,519","
+						Hyundai A-League R4
+						Central Coast Stadium
+					","Hyundai A-League R4","Central Coast Stadium","2017-10-29T08:00:00+00:00","
+							Attendance
+							5,519
+						","Attendance","5,519","17/18"
+"20","
+						Newcastle Jets
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R4","McDonald Jones Stadium","11,468","
+						Hyundai A-League R4
+						McDonald Jones Stadium
+					","Hyundai A-League R4","McDonald Jones Stadium","2017-10-29T06:00:00+00:00","
+							Attendance
+							11,468
+						","Attendance","11,468","17/18"
+"21","
+						Melbourne City FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R5","AAMI Park","11,034","
+						Hyundai A-League R5
+						AAMI Park
+					","Hyundai A-League R5","AAMI Park","2017-11-03T08:50:00+00:00","
+							Attendance
+							11,034
+						","Attendance","11,034","17/18"
+"22","
+						Newcastle Jets
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R5","McDonald Jones Stadium","6,258","
+						Hyundai A-League R5
+						McDonald Jones Stadium
+					","Hyundai A-League R5","McDonald Jones Stadium","2017-11-04T08:50:00+00:00","
+							Attendance
+							6,258
+						","Attendance","6,258","17/18"
+"23","
+						Perth Glory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R5","HBF Park","11,049","
+						Hyundai A-League R5
+						HBF Park
+					","Hyundai A-League R5","HBF Park","2017-11-04T11:00:00+00:00","
+							Attendance
+							11,049
+						","Attendance","11,049","17/18"
+"24","
+						Brisbane Roar FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R5","Suncorp Stadium","11,485","
+						Hyundai A-League R5
+						Suncorp Stadium
+					","Hyundai A-League R5","Suncorp Stadium","2017-11-05T06:00:00+00:00","
+							Attendance
+							11,485
+						","Attendance","11,485","17/18"
+"25","
+						Melbourne Victory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R5","Marvel Stadium","21,577","
+						Hyundai A-League R5
+						Marvel Stadium
+					","Hyundai A-League R5","Marvel Stadium","2017-11-06T08:50:00+00:00","
+							Attendance
+							21,577
+						","Attendance","21,577","17/18"
+"26","
+						Central Coast Mariners
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R6","Central Coast Stadium","7,873","
+						Hyundai A-League R6
+						Central Coast Stadium
+					","Hyundai A-League R6","Central Coast Stadium","2017-11-10T08:50:00+00:00","
+							Attendance
+							7,873
+						","Attendance","7,873","17/18"
+"27","
+						Adelaide United
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R6","Coopers Stadium","8,416","
+						Hyundai A-League R6
+						Coopers Stadium
+					","Hyundai A-League R6","Coopers Stadium","2017-11-11T06:35:00+00:00","
+							Attendance
+							8,416
+						","Attendance","8,416","17/18"
+"28","
+						Melbourne Victory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R6","Marvel Stadium","18,098","
+						Hyundai A-League R6
+						Marvel Stadium
+					","Hyundai A-League R6","Marvel Stadium","2017-11-11T08:50:00+00:00","
+							Attendance
+							18,098
+						","Attendance","18,098","17/18"
+"29","
+						Melbourne City FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R6","AAMI Park","7,516","
+						Hyundai A-League R6
+						AAMI Park
+					","Hyundai A-League R6","AAMI Park","2017-11-12T08:00:00+00:00","
+							Attendance
+							7,516
+						","Attendance","7,516","17/18"
+"30","
+						Wellington Phoenix
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R6","Westpac Stadium","6,105","
+						Hyundai A-League R6
+						Westpac Stadium
+					","Hyundai A-League R6","Westpac Stadium","2017-11-12T03:30:00+00:00","
+							Attendance
+							6,105
+						","Attendance","6,105","17/18"
+"31","
+						Central Coast Mariners
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R7","Central Coast Stadium","5,073","
+						Hyundai A-League R7
+						Central Coast Stadium
+					","Hyundai A-League R7","Central Coast Stadium","2017-11-16T08:50:00+00:00","
+							Attendance
+							5,073
+						","Attendance","5,073","17/18"
+"32","
+						Brisbane Roar FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R7","Suncorp Stadium","9,285","
+						Hyundai A-League R7
+						Suncorp Stadium
+					","Hyundai A-League R7","Suncorp Stadium","2017-11-17T08:50:00+00:00","
+							Attendance
+							9,285
+						","Attendance","9,285","17/18"
+"33","
+						Sydney FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R7","Allianz Stadium","11,519","
+						Hyundai A-League R7
+						Allianz Stadium
+					","Hyundai A-League R7","Allianz Stadium","2017-11-18T08:50:00+00:00","
+							Attendance
+							11,519
+						","Attendance","11,519","17/18"
+"34","
+						Western Sydney Wanderers FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R7","ANZ Stadium","7,127","
+						Hyundai A-League R7
+						ANZ Stadium
+					","Hyundai A-League R7","ANZ Stadium","2018-02-11T08:00:00+00:00","
+							Attendance
+							7,127
+						","Attendance","7,127","17/18"
+"35","
+						Perth Glory
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R7","HBF Park","13,565","
+						Hyundai A-League R7
+						HBF Park
+					","Hyundai A-League R7","HBF Park","2017-11-19T08:00:00+00:00","
+							Attendance
+							13,565
+						","Attendance","13,565","17/18"
+"36","
+						Newcastle Jets
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R8","McDonald Jones Stadium","8,427","
+						Hyundai A-League R8
+						McDonald Jones Stadium
+					","Hyundai A-League R8","McDonald Jones Stadium","2017-11-23T08:50:00+00:00","
+							Attendance
+							8,427
+						","Attendance","8,427","17/18"
+"37","
+						Melbourne City FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R8","AAMI Park","6,963","
+						Hyundai A-League R8
+						AAMI Park
+					","Hyundai A-League R8","AAMI Park","2017-11-24T08:50:00+00:00","
+							Attendance
+							6,963
+						","Attendance","6,963","17/18"
+"38","
+						Adelaide United
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R8","Coopers Stadium","8,210","
+						Hyundai A-League R8
+						Coopers Stadium
+					","Hyundai A-League R8","Coopers Stadium","2017-11-26T08:00:00+00:00","
+							Attendance
+							8,210
+						","Attendance","8,210","17/18"
+"39","
+						Wellington Phoenix
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R8","Westpac Stadium","5,679","
+						Hyundai A-League R8
+						Westpac Stadium
+					","Hyundai A-League R8","Westpac Stadium","2017-11-25T06:35:00+00:00","
+							Attendance
+							5,679
+						","Attendance","5,679","17/18"
+"40","
+						Sydney FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R8","Allianz Stadium","10,044","
+						Hyundai A-League R8
+						Allianz Stadium
+					","Hyundai A-League R8","Allianz Stadium","2017-11-25T08:50:00+00:00","
+							Attendance
+							10,044
+						","Attendance","10,044","17/18"
+"41","
+						Adelaide United
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R9","Coopers Stadium","7,021","
+						Hyundai A-League R9
+						Coopers Stadium
+					","Hyundai A-League R9","Coopers Stadium","2017-12-01T08:50:00+00:00","
+							Attendance
+							7,021
+						","Attendance","7,021","17/18"
+"42","
+						Newcastle Jets
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R9","McDonald Jones Stadium","8,108","
+						Hyundai A-League R9
+						McDonald Jones Stadium
+					","Hyundai A-League R9","McDonald Jones Stadium","2017-12-02T08:50:00+00:00","
+							Attendance
+							8,108
+						","Attendance","8,108","17/18"
+"43","
+						Western Sydney Wanderers FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R9","ANZ Stadium","8,215","
+						Hyundai A-League R9
+						ANZ Stadium
+					","Hyundai A-League R9","ANZ Stadium","2017-12-02T06:35:00+00:00","
+							Attendance
+							8,215
+						","Attendance","8,215","17/18"
+"44","
+						Central Coast Mariners
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R9","Central Coast Stadium","8,115","
+						Hyundai A-League R9
+						Central Coast Stadium
+					","Hyundai A-League R9","Central Coast Stadium","2017-12-03T06:00:00+00:00","
+							Attendance
+							8,115
+						","Attendance","8,115","17/18"
+"45","
+						Wellington Phoenix
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R9","Westpac Stadium","5,765","
+						Hyundai A-League R9
+						Westpac Stadium
+					","Hyundai A-League R9","Westpac Stadium","2017-12-03T03:30:00+00:00","
+							Attendance
+							5,765
+						","Attendance","5,765","17/18"
+"46","
+						Melbourne Victory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R10","Marvel Stadium","16,778","
+						Hyundai A-League R10
+						Marvel Stadium
+					","Hyundai A-League R10","Marvel Stadium","2017-12-08T08:50:00+00:00","
+							Attendance
+							16,778
+						","Attendance","16,778","17/18"
+"47","
+						Brisbane Roar FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R10","Cbus Super Stadium","5,192","
+						Hyundai A-League R10
+						Cbus Super Stadium
+					","Hyundai A-League R10","Cbus Super Stadium","2017-12-09T06:35:00+00:00","
+							Attendance
+							5,192
+						","Attendance","5,192","17/18"
+"48","
+						Perth Glory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R10","HBF Park","8,063","
+						Hyundai A-League R10
+						HBF Park
+					","Hyundai A-League R10","HBF Park","2017-12-09T11:00:00+00:00","
+							Attendance
+							8,063
+						","Attendance","8,063","17/18"
+"49","
+						Western Sydney Wanderers FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R10","ANZ Stadium","36,433","
+						Hyundai A-League R10
+						ANZ Stadium
+					","Hyundai A-League R10","ANZ Stadium","2017-12-09T08:50:00+00:00","
+							Attendance
+							36,433
+						","Attendance","36,433","17/18"
+"50","
+						Melbourne City FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R10","AAMI Park","7,170","
+						Hyundai A-League R10
+						AAMI Park
+					","Hyundai A-League R10","AAMI Park","2017-12-10T08:00:00+00:00","
+							Attendance
+							7,170
+						","Attendance","7,170","17/18"
+"51","
+						Sydney FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R11","Allianz Stadium","10,688","
+						Hyundai A-League R11
+						Allianz Stadium
+					","Hyundai A-League R11","Allianz Stadium","2017-12-15T08:50:00+00:00","
+							Attendance
+							10,688
+						","Attendance","10,688","17/18"
+"52","
+						Central Coast Mariners
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R11","Central Coast Stadium","7,199","
+						Hyundai A-League R11
+						Central Coast Stadium
+					","Hyundai A-League R11","Central Coast Stadium","2017-12-16T08:50:00+00:00","
+							Attendance
+							7,199
+						","Attendance","7,199","17/18"
+"53","
+						Newcastle Jets
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R11","McDonald Jones Stadium","8,146","
+						Hyundai A-League R11
+						McDonald Jones Stadium
+					","Hyundai A-League R11","McDonald Jones Stadium","2017-12-16T06:35:00+00:00","
+							Attendance
+							8,146
+						","Attendance","8,146","17/18"
+"54","
+						Perth Glory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R11","HBF Park","7,750","
+						Hyundai A-League R11
+						HBF Park
+					","Hyundai A-League R11","HBF Park","2017-12-16T11:00:00+00:00","
+							Attendance
+							7,750
+						","Attendance","7,750","17/18"
+"55","
+						Brisbane Roar FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R11","Suncorp Stadium","10,225","
+						Hyundai A-League R11
+						Suncorp Stadium
+					","Hyundai A-League R11","Suncorp Stadium","2017-12-17T08:00:00+00:00","
+							Attendance
+							10,225
+						","Attendance","10,225","17/18"
+"56","
+						Brisbane Roar FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R12","Suncorp Stadium","7,031","
+						Hyundai A-League R12
+						Suncorp Stadium
+					","Hyundai A-League R12","Suncorp Stadium","2017-12-21T08:50:00+00:00","
+							Attendance
+							7,031
+						","Attendance","7,031","17/18"
+"57","
+						Newcastle Jets
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R12","McDonald Jones Stadium","9,862","
+						Hyundai A-League R12
+						McDonald Jones Stadium
+					","Hyundai A-League R12","McDonald Jones Stadium","2017-12-22T08:50:00+00:00","
+							Attendance
+							9,862
+						","Attendance","9,862","17/18"
+"58","
+						Melbourne City FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R12","AAMI Park","20,787","
+						Hyundai A-League R12
+						AAMI Park
+					","Hyundai A-League R12","AAMI Park","2017-12-23T08:50:00+00:00","
+							Attendance
+							20,787
+						","Attendance","20,787","17/18"
+"59","
+						Wellington Phoenix
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R12","Westpac Stadium","5,432","
+						Hyundai A-League R12
+						Westpac Stadium
+					","Hyundai A-League R12","Westpac Stadium","2017-12-23T06:35:00+00:00","
+							Attendance
+							5,432
+						","Attendance","5,432","17/18"
+"60","
+						Adelaide United
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R12","Coopers Stadium","10,313","
+						Hyundai A-League R12
+						Coopers Stadium
+					","Hyundai A-League R12","Coopers Stadium","2017-12-26T08:50:00+00:00","
+							Attendance
+							10,313
+						","Attendance","10,313","17/18"
+"61","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R13","ANZ Stadium","11,628","
+						Hyundai A-League R13
+						ANZ Stadium
+					","Hyundai A-League R13","ANZ Stadium","2018-01-01T08:50:00+00:00","
+							Attendance
+							11,628
+						","Attendance","11,628","17/18"
+"62","
+						Melbourne Victory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R13","AAMI Park","15,534","
+						Hyundai A-League R13
+						AAMI Park
+					","Hyundai A-League R13","AAMI Park","2017-12-29T08:50:00+00:00","
+							Attendance
+							15,534
+						","Attendance","15,534","17/18"
+"63","
+						Adelaide United
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R13","Coopers Stadium","9,875","
+						Hyundai A-League R13
+						Coopers Stadium
+					","Hyundai A-League R13","Coopers Stadium","2017-12-30T06:35:00+00:00","
+							Attendance
+							9,875
+						","Attendance","9,875","17/18"
+"64","
+						Sydney FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R13","Allianz Stadium","13,322","
+						Hyundai A-League R13
+						Allianz Stadium
+					","Hyundai A-League R13","Allianz Stadium","2017-12-30T08:50:00+00:00","
+							Attendance
+							13,322
+						","Attendance","13,322","17/18"
+"65","
+						Central Coast Mariners
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R13","Central Coast Stadium","9,110","
+						Hyundai A-League R13
+						Central Coast Stadium
+					","Hyundai A-League R13","Central Coast Stadium","2017-12-31T08:00:00+00:00","
+							Attendance
+							9,110
+						","Attendance","9,110","17/18"
+"66","
+						Sydney FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R14","Allianz Stadium","18,055","
+						Hyundai A-League R14
+						Allianz Stadium
+					","Hyundai A-League R14","Allianz Stadium","2018-01-03T08:50:00+00:00","
+							Attendance
+							18,055
+						","Attendance","18,055","17/18"
+"67","
+						Brisbane Roar FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R14","Suncorp Stadium","11,189","
+						Hyundai A-League R14
+						Suncorp Stadium
+					","Hyundai A-League R14","Suncorp Stadium","2018-01-05T08:50:00+00:00","
+							Attendance
+							11,189
+						","Attendance","11,189","17/18"
+"68","
+						Melbourne Victory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R14","GMHBA Stadium","8,370","
+						Hyundai A-League R14
+						GMHBA Stadium
+					","Hyundai A-League R14","GMHBA Stadium","2018-01-06T07:00:00+00:00","
+							Attendance
+							8,370
+						","Attendance","8,370","17/18"
+"69","
+						Melbourne City FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R14","AAMI Park","5,207","
+						Hyundai A-League R14
+						AAMI Park
+					","Hyundai A-League R14","AAMI Park","2018-01-06T08:50:00+00:00","
+							Attendance
+							5,207
+						","Attendance","5,207","17/18"
+"70","
+						Perth Glory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R14","HBF Park","9,069","
+						Hyundai A-League R14
+						HBF Park
+					","Hyundai A-League R14","HBF Park","2018-01-05T11:00:00+00:00","
+							Attendance
+							9,069
+						","Attendance","9,069","17/18"
+"71","
+						Brisbane Roar FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R15","Suncorp Stadium","7,826","
+						Hyundai A-League R15
+						Suncorp Stadium
+					","Hyundai A-League R15","Suncorp Stadium","2018-01-08T08:50:00+00:00","
+							Attendance
+							7,826
+						","Attendance","7,826","17/18"
+"72","
+						Newcastle Jets
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R15","McDonald Jones Stadium","13,127","
+						Hyundai A-League R15
+						McDonald Jones Stadium
+					","Hyundai A-League R15","McDonald Jones Stadium","2018-01-09T08:50:00+00:00","
+							Attendance
+							13,127
+						","Attendance","13,127","17/18"
+"73","
+						Wellington Phoenix
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R15","Westpac Stadium","5,105","
+						Hyundai A-League R15
+						Westpac Stadium
+					","Hyundai A-League R15","Westpac Stadium","2018-01-10T06:35:00+00:00","
+							Attendance
+							5,105
+						","Attendance","5,105","17/18"
+"74","
+						Perth Glory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R15","HBF Park","8,016","
+						Hyundai A-League R15
+						HBF Park
+					","Hyundai A-League R15","HBF Park","2018-01-09T11:00:00+00:00","
+							Attendance
+							8,016
+						","Attendance","8,016","17/18"
+"75","
+						Western Sydney Wanderers FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R15","ANZ Stadium","10,771","
+						Hyundai A-League R15
+						ANZ Stadium
+					","Hyundai A-League R15","ANZ Stadium","2018-01-10T08:50:00+00:00","
+							Attendance
+							10,771
+						","Attendance","10,771","17/18"
+"76","
+						Newcastle Jets
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R16","McDonald Jones Stadium","12,137","
+						Hyundai A-League R16
+						McDonald Jones Stadium
+					","Hyundai A-League R16","McDonald Jones Stadium","2018-01-12T08:50:00+00:00","
+							Attendance
+							12,137
+						","Attendance","12,137","17/18"
+"77","
+						Central Coast Mariners
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R16","Central Coast Stadium","6,253","
+						Hyundai A-League R16
+						Central Coast Stadium
+					","Hyundai A-League R16","Central Coast Stadium","2018-01-14T06:00:00+00:00","
+							Attendance
+							6,253
+						","Attendance","6,253","17/18"
+"78","
+						Melbourne Victory
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R16","AAMI Park","14,332","
+						Hyundai A-League R16
+						AAMI Park
+					","Hyundai A-League R16","AAMI Park","2018-01-13T08:50:00+00:00","
+							Attendance
+							14,332
+						","Attendance","14,332","17/18"
+"79","
+						Adelaide United
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R16","Coopers Stadium","9,959","
+						Hyundai A-League R16
+						Coopers Stadium
+					","Hyundai A-League R16","Coopers Stadium","2018-01-14T08:00:00+00:00","
+							Attendance
+							9,959
+						","Attendance","9,959","17/18"
+"80","
+						Wellington Phoenix
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R16","Westpac Stadium","5,634","
+						Hyundai A-League R16
+						Westpac Stadium
+					","Hyundai A-League R16","Westpac Stadium","2018-01-13T06:35:00+00:00","
+							Attendance
+							5,634
+						","Attendance","5,634","17/18"
+"81","
+						Brisbane Roar FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R17","Suncorp Stadium","6,258","
+						Hyundai A-League R17
+						Suncorp Stadium
+					","Hyundai A-League R17","Suncorp Stadium","2018-01-18T08:50:00+00:00","
+							Attendance
+							6,258
+						","Attendance","6,258","17/18"
+"82","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R17","ANZ Stadium","11,864","
+						Hyundai A-League R17
+						ANZ Stadium
+					","Hyundai A-League R17","ANZ Stadium","2018-01-19T08:50:00+00:00","
+							Attendance
+							11,864
+						","Attendance","11,864","17/18"
+"83","
+						Newcastle Jets
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R17","McDonald Jones Stadium","10,877","
+						Hyundai A-League R17
+						McDonald Jones Stadium
+					","Hyundai A-League R17","McDonald Jones Stadium","2018-01-20T06:35:00+00:00","
+							Attendance
+							10,877
+						","Attendance","10,877","17/18"
+"84","
+						Sydney FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R17","Allianz Stadium","13,511","
+						Hyundai A-League R17
+						Allianz Stadium
+					","Hyundai A-League R17","Allianz Stadium","2018-01-20T08:50:00+00:00","
+							Attendance
+							13,511
+						","Attendance","13,511","17/18"
+"85","
+						Melbourne City FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R17","AAMI Park","8,103","
+						Hyundai A-League R17
+						AAMI Park
+					","Hyundai A-League R17","AAMI Park","2018-01-21T08:00:00+00:00","
+							Attendance
+							8,103
+						","Attendance","8,103","17/18"
+"86","
+						Melbourne City FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R18","AAMI Park","7,790","
+						Hyundai A-League R18
+						AAMI Park
+					","Hyundai A-League R18","AAMI Park","2018-01-25T08:50:00+00:00","
+							Attendance
+							7,790
+						","Attendance","7,790","17/18"
+"87","
+						Melbourne Victory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R18","AAMI Park","21,037","
+						Hyundai A-League R18
+						AAMI Park
+					","Hyundai A-League R18","AAMI Park","2018-01-26T08:50:00+00:00","
+							Attendance
+							21,037
+						","Attendance","21,037","17/18"
+"88","
+						Central Coast Mariners
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R18","Central Coast Stadium","5,264","
+						Hyundai A-League R18
+						Central Coast Stadium
+					","Hyundai A-League R18","Central Coast Stadium","2018-01-27T08:50:00+00:00","
+							Attendance
+							5,264
+						","Attendance","5,264","17/18"
+"89","
+						Wellington Phoenix
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R18","Westpac Stadium","6,746","
+						Hyundai A-League R18
+						Westpac Stadium
+					","Hyundai A-League R18","Westpac Stadium","2018-01-27T06:35:00+00:00","
+							Attendance
+							6,746
+						","Attendance","6,746","17/18"
+"90","
+						Perth Glory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R18","HBF Park","9,317","
+						Hyundai A-League R18
+						HBF Park
+					","Hyundai A-League R18","HBF Park","2018-01-28T09:30:00+00:00","
+							Attendance
+							9,317
+						","Attendance","9,317","17/18"
+"91","
+						Newcastle Jets
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R19","McDonald Jones Stadium","11,473","
+						Hyundai A-League R19
+						McDonald Jones Stadium
+					","Hyundai A-League R19","McDonald Jones Stadium","2018-02-03T06:35:00+00:00","
+							Attendance
+							11,473
+						","Attendance","11,473","17/18"
+"92","
+						Adelaide United
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R19","Coopers Stadium","7,976","
+						Hyundai A-League R19
+						Coopers Stadium
+					","Hyundai A-League R19","Coopers Stadium","2018-02-03T08:50:00+00:00","
+							Attendance
+							7,976
+						","Attendance","7,976","17/18"
+"93","
+						Sydney FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R19","Allianz Stadium","10,220","
+						Hyundai A-League R19
+						Allianz Stadium
+					","Hyundai A-League R19","Allianz Stadium","2018-02-02T08:50:00+00:00","
+							Attendance
+							10,220
+						","Attendance","10,220","17/18"
+"94","
+						Brisbane Roar FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R19","Suncorp Stadium","9,150","
+						Hyundai A-League R19
+						Suncorp Stadium
+					","Hyundai A-League R19","Suncorp Stadium","2018-02-04T08:00:00+00:00","
+							Attendance
+							9,150
+						","Attendance","9,150","17/18"
+"95","
+						Central Coast Mariners
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R19","Central Coast Stadium","7,046","
+						Hyundai A-League R19
+						Central Coast Stadium
+					","Hyundai A-League R19","Central Coast Stadium","2018-02-04T06:00:00+00:00","
+							Attendance
+							7,046
+						","Attendance","7,046","17/18"
+"96","
+						Melbourne Victory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R20","AAMI Park","14,576","
+						Hyundai A-League R20
+						AAMI Park
+					","Hyundai A-League R20","AAMI Park","2018-02-09T08:50:00+00:00","
+							Attendance
+							14,576
+						","Attendance","14,576","17/18"
+"97","
+						Melbourne City FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R20","AAMI Park","8,587","
+						Hyundai A-League R20
+						AAMI Park
+					","Hyundai A-League R20","AAMI Park","2018-02-10T08:50:00+00:00","
+							Attendance
+							8,587
+						","Attendance","8,587","17/18"
+"98","
+						Wellington Phoenix
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R20","Westpac Stadium","4,806","
+						Hyundai A-League R20
+						Westpac Stadium
+					","Hyundai A-League R20","Westpac Stadium","2018-02-17T06:35:00+00:00","
+							Attendance
+							4,806
+						","Attendance","4,806","17/18"
+"99","
+						Western Sydney Wanderers FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R20","Spotless Stadium","10,065","
+						Hyundai A-League R20
+						Spotless Stadium
+					","Hyundai A-League R20","Spotless Stadium","2018-02-16T08:50:00+00:00","
+							Attendance
+							10,065
+						","Attendance","10,065","17/18"
+"100","
+						Adelaide United
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R20","Coopers Stadium","8,282","
+						Hyundai A-League R20
+						Coopers Stadium
+					","Hyundai A-League R20","Coopers Stadium","2018-02-17T08:50:00+00:00","
+							Attendance
+							8,282
+						","Attendance","8,282","17/18"
+"101","
+						Central Coast Mariners
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R21","Central Coast Stadium","4,973","
+						Hyundai A-League R21
+						Central Coast Stadium
+					","Hyundai A-League R21","Central Coast Stadium","2018-02-23T08:50:00+00:00","
+							Attendance
+							4,973
+						","Attendance","4,973","17/18"
+"102","
+						Brisbane Roar FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R21","Suncorp Stadium","8,120","
+						Hyundai A-League R21
+						Suncorp Stadium
+					","Hyundai A-League R21","Suncorp Stadium","2018-02-24T06:35:00+00:00","
+							Attendance
+							8,120
+						","Attendance","8,120","17/18"
+"103","
+						Melbourne Victory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R21","AAMI Park","13,396","
+						Hyundai A-League R21
+						AAMI Park
+					","Hyundai A-League R21","AAMI Park","2018-02-24T08:50:00+00:00","
+							Attendance
+							13,396
+						","Attendance","13,396","17/18"
+"104","
+						Perth Glory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R21","HBF Park","8,029","
+						Hyundai A-League R21
+						HBF Park
+					","Hyundai A-League R21","HBF Park","2018-02-24T11:00:00+00:00","
+							Attendance
+							8,029
+						","Attendance","8,029","17/18"
+"105","
+						Sydney FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R21","Allianz Stadium","25,211","
+						Hyundai A-League R21
+						Allianz Stadium
+					","Hyundai A-League R21","Allianz Stadium","2018-02-25T07:30:00+00:00","
+							Attendance
+							25,211
+						","Attendance","25,211","17/18"
+"106","
+						Melbourne City FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R22","AAMI Park","20,083","
+						Hyundai A-League R22
+						AAMI Park
+					","Hyundai A-League R22","AAMI Park","2018-03-02T08:50:00+00:00","
+							Attendance
+							20,083
+						","Attendance","20,083","17/18"
+"107","
+						Brisbane Roar FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R22","Suncorp Stadium","8,237","
+						Hyundai A-League R22
+						Suncorp Stadium
+					","Hyundai A-League R22","Suncorp Stadium","2018-03-03T08:50:00+00:00","
+							Attendance
+							8,237
+						","Attendance","8,237","17/18"
+"108","
+						Newcastle Jets
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R22","McDonald Jones Stadium","18,156","
+						Hyundai A-League R22
+						McDonald Jones Stadium
+					","Hyundai A-League R22","McDonald Jones Stadium","2018-03-03T06:35:00+00:00","
+							Attendance
+							18,156
+						","Attendance","18,156","17/18"
+"109","
+						Perth Glory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R22","HBF Park","7,277","
+						Hyundai A-League R22
+						HBF Park
+					","Hyundai A-League R22","HBF Park","2018-03-10T11:00:00+00:00","
+							Attendance
+							7,277
+						","Attendance","7,277","17/18"
+"110","
+						Western Sydney Wanderers FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R22","Spotless Stadium","7,041","
+						Hyundai A-League R22
+						Spotless Stadium
+					","Hyundai A-League R22","Spotless Stadium","2018-03-10T08:50:00+00:00","
+							Attendance
+							7,041
+						","Attendance","7,041","17/18"
+"111","
+						Adelaide United
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R23","Coopers Stadium","7,668","
+						Hyundai A-League R23
+						Coopers Stadium
+					","Hyundai A-League R23","Coopers Stadium","2018-03-16T08:50:00+00:00","
+							Attendance
+							7,668
+						","Attendance","7,668","17/18"
+"112","
+						Wellington Phoenix
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R23","QBE Stadium","4,672","
+						Hyundai A-League R23
+						QBE Stadium
+					","Hyundai A-League R23","QBE Stadium","2018-03-17T06:35:00+00:00","
+							Attendance
+							4,672
+						","Attendance","4,672","17/18"
+"113","
+						Western Sydney Wanderers FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R23","Spotless Stadium","6,612","
+						Hyundai A-League R23
+						Spotless Stadium
+					","Hyundai A-League R23","Spotless Stadium","2018-03-04T06:00:00+00:00","
+							Attendance
+							6,612
+						","Attendance","6,612","17/18"
+"114","
+						Melbourne Victory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R23","AAMI Park","14,076","
+						Hyundai A-League R23
+						AAMI Park
+					","Hyundai A-League R23","AAMI Park","2018-03-18T06:00:00+00:00","
+							Attendance
+							14,076
+						","Attendance","14,076","17/18"
+"115","
+						Sydney FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R23","Allianz Stadium","10,890","
+						Hyundai A-League R23
+						Allianz Stadium
+					","Hyundai A-League R23","Allianz Stadium","2018-03-17T08:50:00+00:00","
+							Attendance
+							10,890
+						","Attendance","10,890","17/18"
+"116","
+						Adelaide United
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R24","Coopers Stadium","7,227","
+						Hyundai A-League R24
+						Coopers Stadium
+					","Hyundai A-League R24","Coopers Stadium","2018-03-23T08:50:00+00:00","
+							Attendance
+							7,227
+						","Attendance","7,227","17/18"
+"117","
+						Central Coast Mariners
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R24","Central Coast Stadium","7,082","
+						Hyundai A-League R24
+						Central Coast Stadium
+					","Hyundai A-League R24","Central Coast Stadium","2018-03-24T06:35:00+00:00","
+							Attendance
+							7,082
+						","Attendance","7,082","17/18"
+"118","
+						Melbourne City FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R24","AAMI Park","6,354","
+						Hyundai A-League R24
+						AAMI Park
+					","Hyundai A-League R24","AAMI Park","2018-03-24T08:50:00+00:00","
+							Attendance
+							6,354
+						","Attendance","6,354","17/18"
+"119","
+						Perth Glory
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R24","HBF Park","7,796","
+						Hyundai A-League R24
+						HBF Park
+					","Hyundai A-League R24","HBF Park","2018-03-25T08:00:00+00:00","
+							Attendance
+							7,796
+						","Attendance","7,796","17/18"
+"120","
+						Wellington Phoenix
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R24","Westpac Stadium","4,594","
+						Hyundai A-League R24
+						Westpac Stadium
+					","Hyundai A-League R24","Westpac Stadium","2018-03-25T06:00:00+00:00","
+							Attendance
+							4,594
+						","Attendance","4,594","17/18"
+"121","
+						Newcastle Jets
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R25","McDonald Jones Stadium","11,423","
+						Hyundai A-League R25
+						McDonald Jones Stadium
+					","Hyundai A-League R25","McDonald Jones Stadium","2018-04-01T07:00:00+00:00","
+							Attendance
+							11,423
+						","Attendance","11,423","17/18"
+"122","
+						Adelaide United
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R25","Coopers Stadium","11,738","
+						Hyundai A-League R25
+						Coopers Stadium
+					","Hyundai A-League R25","Coopers Stadium","2018-03-30T08:50:00+00:00","
+							Attendance
+							11,738
+						","Attendance","11,738","17/18"
+"123","
+						Brisbane Roar FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R25","Suncorp Stadium","12,019","
+						Hyundai A-League R25
+						Suncorp Stadium
+					","Hyundai A-League R25","Suncorp Stadium","2018-03-31T06:35:00+00:00","
+							Attendance
+							12,019
+						","Attendance","12,019","17/18"
+"124","
+						Melbourne Victory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R25","AAMI Park","15,280","
+						Hyundai A-League R25
+						AAMI Park
+					","Hyundai A-League R25","AAMI Park","2018-03-31T08:50:00+00:00","
+							Attendance
+							15,280
+						","Attendance","15,280","17/18"
+"125","
+						Perth Glory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R25","HBF Park","7,742","
+						Hyundai A-League R25
+						HBF Park
+					","Hyundai A-League R25","HBF Park","2018-03-29T10:30:00+00:00","
+							Attendance
+							7,742
+						","Attendance","7,742","17/18"
+"126","
+						Newcastle Jets
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R26","McDonald Jones Stadium","8,123","
+						Hyundai A-League R26
+						McDonald Jones Stadium
+					","Hyundai A-League R26","McDonald Jones Stadium","2018-04-06T09:50:00+00:00","
+							Attendance
+							8,123
+						","Attendance","8,123","17/18"
+"127","
+						Melbourne City FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R26","AAMI Park","8,156","
+						Hyundai A-League R26
+						AAMI Park
+					","Hyundai A-League R26","AAMI Park","2018-04-07T09:50:00+00:00","
+							Attendance
+							8,156
+						","Attendance","8,156","17/18"
+"128","
+						Western Sydney Wanderers FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R26","ANZ Stadium","9,266","
+						Hyundai A-League R26
+						ANZ Stadium
+					","Hyundai A-League R26","ANZ Stadium","2018-04-07T07:35:00+00:00","
+							Attendance
+							9,266
+						","Attendance","9,266","17/18"
+"129","
+						Melbourne Victory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R26","AAMI Park","13,182","
+						Hyundai A-League R26
+						AAMI Park
+					","Hyundai A-League R26","AAMI Park","2018-04-08T07:00:00+00:00","
+							Attendance
+							13,182
+						","Attendance","13,182","17/18"
+"130","
+						Sydney FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R26","Allianz Stadium","9,110","
+						Hyundai A-League R26
+						Allianz Stadium
+					","Hyundai A-League R26","Allianz Stadium","2018-04-08T09:00:00+00:00","
+							Attendance
+							9,110
+						","Attendance","9,110","17/18"
+"131","
+						Sydney FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R27","Allianz Stadium","15,567","
+						Hyundai A-League R27
+						Allianz Stadium
+					","Hyundai A-League R27","Allianz Stadium","2018-04-13T09:50:00+00:00","
+							Attendance
+							15,567
+						","Attendance","15,567","17/18"
+"132","
+						Central Coast Mariners
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R27","Central Coast Stadium","7,604","
+						Hyundai A-League R27
+						Central Coast Stadium
+					","Hyundai A-League R27","Central Coast Stadium","2018-04-14T09:50:00+00:00","
+							Attendance
+							7,604
+						","Attendance","7,604","17/18"
+"133","
+						Perth Glory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R27","HBF Park","9,579","
+						Hyundai A-League R27
+						HBF Park
+					","Hyundai A-League R27","HBF Park","2018-04-14T12:00:00+00:00","
+							Attendance
+							9,579
+						","Attendance","9,579","17/18"
+"134","
+						Wellington Phoenix
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R27","QBE Stadium","4,312","
+						Hyundai A-League R27
+						QBE Stadium
+					","Hyundai A-League R27","QBE Stadium","2018-04-14T07:35:00+00:00","
+							Attendance
+							4,312
+						","Attendance","4,312","17/18"
+"135","
+						Western Sydney Wanderers FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R27","ANZ Stadium","12,122","
+						Hyundai A-League R27
+						ANZ Stadium
+					","Hyundai A-League R27","ANZ Stadium","2018-04-15T07:00:00+00:00","
+							Attendance
+							12,122
+						","Attendance","12,122","17/18"
+"136","
+						Brisbane Roar FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R1","Suncorp Stadium","15,805","
+						Hyundai A-League R1
+						Suncorp Stadium
+					","Hyundai A-League R1","Suncorp Stadium","2016-10-07T08:50:00+00:00","
+							Attendance
+							15,805
+						","Attendance","15,805","16/17"
+"137","
+						Wellington Phoenix
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R1","Westpac Stadium","10,034","
+						Hyundai A-League R1
+						Westpac Stadium
+					","Hyundai A-League R1","Westpac Stadium","2016-10-08T06:35:00+00:00","
+							Attendance
+							10,034
+						","Attendance","10,034","16/17"
+"138","
+						Western Sydney Wanderers FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R1","ANZ Stadium","61,880","
+						Hyundai A-League R1
+						ANZ Stadium
+					","Hyundai A-League R1","ANZ Stadium","2016-10-08T08:50:00+00:00","
+							Attendance
+							61,880
+						","Attendance","61,880","16/17"
+"139","
+						Perth Glory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R1","HBF Park","9,501","
+						Hyundai A-League R1
+						HBF Park
+					","Hyundai A-League R1","HBF Park","2016-10-08T11:00:00+00:00","
+							Attendance
+							9,501
+						","Attendance","9,501","16/17"
+"140","
+						Newcastle Jets
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R1","McDonald Jones Stadium","9,145","
+						Hyundai A-League R1
+						McDonald Jones Stadium
+					","Hyundai A-League R1","McDonald Jones Stadium","2016-10-09T06:00:00+00:00","
+							Attendance
+							9,145
+						","Attendance","9,145","16/17"
+"141","
+						Adelaide United
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R2","Coopers Stadium","14,789","
+						Hyundai A-League R2
+						Coopers Stadium
+					","Hyundai A-League R2","Coopers Stadium","2016-10-14T08:50:00+00:00","
+							Attendance
+							14,789
+						","Attendance","14,789","16/17"
+"142","
+						Sydney FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R2","Allianz Stadium","15,082","
+						Hyundai A-League R2
+						Allianz Stadium
+					","Hyundai A-League R2","Allianz Stadium","2016-10-15T06:35:00+00:00","
+							Attendance
+							15,082
+						","Attendance","15,082","16/17"
+"143","
+						Melbourne Victory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R2","Marvel Stadium","43,188","
+						Hyundai A-League R2
+						Marvel Stadium
+					","Hyundai A-League R2","Marvel Stadium","2016-10-15T08:50:00+00:00","
+							Attendance
+							43,188
+						","Attendance","43,188","16/17"
+"144","
+						Newcastle Jets
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R2","McDonald Jones Stadium","8,335","
+						Hyundai A-League R2
+						McDonald Jones Stadium
+					","Hyundai A-League R2","McDonald Jones Stadium","2016-10-16T06:00:00+00:00","
+							Attendance
+							8,335
+						","Attendance","8,335","16/17"
+"145","
+						Perth Glory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R2","HBF Park","11,209","
+						Hyundai A-League R2
+						HBF Park
+					","Hyundai A-League R2","HBF Park","2016-10-16T08:00:00+00:00","
+							Attendance
+							11,209
+						","Attendance","11,209","16/17"
+"146","
+						Melbourne City FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R3","AAMI Park","7,905","
+						Hyundai A-League R3
+						AAMI Park
+					","Hyundai A-League R3","AAMI Park","2016-10-21T08:50:00+00:00","
+							Attendance
+							7,905
+						","Attendance","7,905","16/17"
+"147","
+						Central Coast Mariners
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R3","Central Coast Stadium","7,073","
+						Hyundai A-League R3
+						Central Coast Stadium
+					","Hyundai A-League R3","Central Coast Stadium","2016-10-22T06:35:00+00:00","
+							Attendance
+							7,073
+						","Attendance","7,073","16/17"
+"148","
+						Adelaide United
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R3","Coopers Stadium","14,908","
+						Hyundai A-League R3
+						Coopers Stadium
+					","Hyundai A-League R3","Coopers Stadium","2016-10-22T08:50:00+00:00","
+							Attendance
+							14,908
+						","Attendance","14,908","16/17"
+"149","
+						Wellington Phoenix
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R3","Westpac Stadium","7,365","
+						Hyundai A-League R3
+						Westpac Stadium
+					","Hyundai A-League R3","Westpac Stadium","2016-10-23T06:00:00+00:00","
+							Attendance
+							7,365
+						","Attendance","7,365","16/17"
+"150","
+						Western Sydney Wanderers FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R3","Spotless Stadium","13,247","
+						Hyundai A-League R3
+						Spotless Stadium
+					","Hyundai A-League R3","Spotless Stadium","2016-10-23T08:00:00+00:00","
+							Attendance
+							13,247
+						","Attendance","13,247","16/17"
+"151","
+						Melbourne City FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R4","AAMI Park","10,053","
+						Hyundai A-League R4
+						AAMI Park
+					","Hyundai A-League R4","AAMI Park","2016-10-28T08:50:00+00:00","
+							Attendance
+							10,053
+						","Attendance","10,053","16/17"
+"152","
+						Newcastle Jets
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R4","McDonald Jones Stadium","11,873","
+						Hyundai A-League R4
+						McDonald Jones Stadium
+					","Hyundai A-League R4","McDonald Jones Stadium","2016-10-29T06:35:00+00:00","
+							Attendance
+							11,873
+						","Attendance","11,873","16/17"
+"153","
+						Western Sydney Wanderers FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R4","Spotless Stadium","12,168","
+						Hyundai A-League R4
+						Spotless Stadium
+					","Hyundai A-League R4","Spotless Stadium","2016-10-29T08:50:00+00:00","
+							Attendance
+							12,168
+						","Attendance","12,168","16/17"
+"154","
+						Brisbane Roar FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R4","Suncorp Stadium","13,428","
+						Hyundai A-League R4
+						Suncorp Stadium
+					","Hyundai A-League R4","Suncorp Stadium","2016-10-30T06:00:00+00:00","
+							Attendance
+							13,428
+						","Attendance","13,428","16/17"
+"155","
+						Melbourne Victory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R4","Marvel Stadium","20,113","
+						Hyundai A-League R4
+						Marvel Stadium
+					","Hyundai A-League R4","Marvel Stadium","2016-10-31T08:50:00+00:00","
+							Attendance
+							20,113
+						","Attendance","20,113","16/17"
+"156","
+						Brisbane Roar FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R5","Suncorp Stadium","20,198","
+						Hyundai A-League R5
+						Suncorp Stadium
+					","Hyundai A-League R5","Suncorp Stadium","2016-11-04T08:50:00+00:00","
+							Attendance
+							20,198
+						","Attendance","20,198","16/17"
+"157","
+						Wellington Phoenix
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R5","Westpac Stadium","5,832","
+						Hyundai A-League R5
+						Westpac Stadium
+					","Hyundai A-League R5","Westpac Stadium","2016-11-05T06:35:00+00:00","
+							Attendance
+							5,832
+						","Attendance","5,832","16/17"
+"158","
+						Sydney FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R5","Allianz Stadium","19,143","
+						Hyundai A-League R5
+						Allianz Stadium
+					","Hyundai A-League R5","Allianz Stadium","2016-11-05T08:50:00+00:00","
+							Attendance
+							19,143
+						","Attendance","19,143","16/17"
+"159","
+						Adelaide United
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R5","Coopers Stadium","10,974","
+						Hyundai A-League R5
+						Coopers Stadium
+					","Hyundai A-League R5","Coopers Stadium","2016-11-06T06:00:00+00:00","
+							Attendance
+							10,974
+						","Attendance","10,974","16/17"
+"160","
+						Perth Glory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R5","HBF Park","13,290","
+						Hyundai A-League R5
+						HBF Park
+					","Hyundai A-League R5","HBF Park","2016-11-06T08:00:00+00:00","
+							Attendance
+							13,290
+						","Attendance","13,290","16/17"
+"161","
+						Melbourne City FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R6","AAMI Park","7,745","
+						Hyundai A-League R6
+						AAMI Park
+					","Hyundai A-League R6","AAMI Park","2016-11-10T08:50:00+00:00","
+							Attendance
+							7,745
+						","Attendance","7,745","16/17"
+"162","
+						Adelaide United
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R6","Coopers Stadium","9,146","
+						Hyundai A-League R6
+						Coopers Stadium
+					","Hyundai A-League R6","Coopers Stadium","2016-11-11T08:50:00+00:00","
+							Attendance
+							9,146
+						","Attendance","9,146","16/17"
+"163","
+						Central Coast Mariners
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R6","GIO Stadium","5,497","
+						Hyundai A-League R6
+						GIO Stadium
+					","Hyundai A-League R6","GIO Stadium","2016-11-12T06:35:00+00:00","
+							Attendance
+							5,497
+						","Attendance","5,497","16/17"
+"164","
+						Melbourne Victory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R6","Marvel Stadium","21,480","
+						Hyundai A-League R6
+						Marvel Stadium
+					","Hyundai A-League R6","Marvel Stadium","2016-11-12T08:50:00+00:00","
+							Attendance
+							21,480
+						","Attendance","21,480","16/17"
+"165","
+						Sydney FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R6","Allianz Stadium","14,167","
+						Hyundai A-League R6
+						Allianz Stadium
+					","Hyundai A-League R6","Allianz Stadium","2016-11-13T06:00:00+00:00","
+							Attendance
+							14,167
+						","Attendance","14,167","16/17"
+"166","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R7","Spotless Stadium","14,232","
+						Hyundai A-League R7
+						Spotless Stadium
+					","Hyundai A-League R7","Spotless Stadium","2016-11-18T08:50:00+00:00","
+							Attendance
+							14,232
+						","Attendance","14,232","16/17"
+"167","
+						Perth Glory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R7","HBF Park","10,011","
+						Hyundai A-League R7
+						HBF Park
+					","Hyundai A-League R7","HBF Park","2016-11-18T11:00:00+00:00","
+							Attendance
+							10,011
+						","Attendance","10,011","16/17"
+"168","
+						Wellington Phoenix
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R7","Westpac Stadium","5,865","
+						Hyundai A-League R7
+						Westpac Stadium
+					","Hyundai A-League R7","Westpac Stadium","2017-01-17T06:45:00+00:00","
+							Attendance
+							5,865
+						","Attendance","5,865","16/17"
+"169","
+						Brisbane Roar FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R7","Suncorp Stadium","17,322","
+						Hyundai A-League R7
+						Suncorp Stadium
+					","Hyundai A-League R7","Suncorp Stadium","2016-11-19T08:50:00+00:00","
+							Attendance
+							17,322
+						","Attendance","17,322","16/17"
+"170","
+						Newcastle Jets
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R7","McDonald Jones Stadium","11,238","
+						Hyundai A-League R7
+						McDonald Jones Stadium
+					","Hyundai A-League R7","McDonald Jones Stadium","2016-11-20T06:00:00+00:00","
+							Attendance
+							11,238
+						","Attendance","11,238","16/17"
+"171","
+						Central Coast Mariners
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R8","Central Coast Stadium","5,296","
+						Hyundai A-League R8
+						Central Coast Stadium
+					","Hyundai A-League R8","Central Coast Stadium","2016-11-24T08:50:00+00:00","
+							Attendance
+							5,296
+						","Attendance","5,296","16/17"
+"172","
+						Western Sydney Wanderers FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R8","Spotless Stadium","11,201","
+						Hyundai A-League R8
+						Spotless Stadium
+					","Hyundai A-League R8","Spotless Stadium","2016-11-25T08:50:00+00:00","
+							Attendance
+							11,201
+						","Attendance","11,201","16/17"
+"173","
+						Melbourne Victory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R8","AAMI Park","18,267","
+						Hyundai A-League R8
+						AAMI Park
+					","Hyundai A-League R8","AAMI Park","2016-11-26T06:35:00+00:00","
+							Attendance
+							18,267
+						","Attendance","18,267","16/17"
+"174","
+						Sydney FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R8","Allianz Stadium","13,179","
+						Hyundai A-League R8
+						Allianz Stadium
+					","Hyundai A-League R8","Allianz Stadium","2016-11-26T08:50:00+00:00","
+							Attendance
+							13,179
+						","Attendance","13,179","16/17"
+"175","
+						Melbourne City FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R8","AAMI Park","10,644","
+						Hyundai A-League R8
+						AAMI Park
+					","Hyundai A-League R8","AAMI Park","2016-11-27T06:00:00+00:00","
+							Attendance
+							10,644
+						","Attendance","10,644","16/17"
+"176","
+						Melbourne Victory
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R9","AAMI Park","16,017","
+						Hyundai A-League R9
+						AAMI Park
+					","Hyundai A-League R9","AAMI Park","2016-12-02T08:50:00+00:00","
+							Attendance
+							16,017
+						","Attendance","16,017","16/17"
+"177","
+						Central Coast Mariners
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R9","Central Coast Stadium","11,075","
+						Hyundai A-League R9
+						Central Coast Stadium
+					","Hyundai A-League R9","Central Coast Stadium","2016-12-03T06:35:00+00:00","
+							Attendance
+							11,075
+						","Attendance","11,075","16/17"
+"178","
+						Melbourne City FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R9","AAMI Park","8,394","
+						Hyundai A-League R9
+						AAMI Park
+					","Hyundai A-League R9","AAMI Park","2016-12-03T08:50:00+00:00","
+							Attendance
+							8,394
+						","Attendance","8,394","16/17"
+"179","
+						Newcastle Jets
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R9","McDonald Jones Stadium","8,473","
+						Hyundai A-League R9
+						McDonald Jones Stadium
+					","Hyundai A-League R9","McDonald Jones Stadium","2016-12-04T06:00:00+00:00","
+							Attendance
+							8,473
+						","Attendance","8,473","16/17"
+"180","
+						Adelaide United
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R9","Coopers Stadium","8,539","
+						Hyundai A-League R9
+						Coopers Stadium
+					","Hyundai A-League R9","Coopers Stadium","2016-12-04T08:00:00+00:00","
+							Attendance
+							8,539
+						","Attendance","8,539","16/17"
+"181","
+						Sydney FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R10","ANZ Stadium","14,688","
+						Hyundai A-League R10
+						ANZ Stadium
+					","Hyundai A-League R10","ANZ Stadium","2016-12-09T08:50:00+00:00","
+							Attendance
+							14,688
+						","Attendance","14,688","16/17"
+"182","
+						Wellington Phoenix
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R10","FMG Stadium","5,234","
+						Hyundai A-League R10
+						FMG Stadium
+					","Hyundai A-League R10","FMG Stadium","2016-12-10T06:35:00+00:00","
+							Attendance
+							5,234
+						","Attendance","5,234","16/17"
+"183","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R10","ANZ Stadium","16,231","
+						Hyundai A-League R10
+						ANZ Stadium
+					","Hyundai A-League R10","ANZ Stadium","2016-12-10T08:50:00+00:00","
+							Attendance
+							16,231
+						","Attendance","16,231","16/17"
+"184","
+						Perth Glory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R10","HBF Park","9,202","
+						Hyundai A-League R10
+						HBF Park
+					","Hyundai A-League R10","HBF Park","2016-12-10T11:00:00+00:00","
+							Attendance
+							9,202
+						","Attendance","9,202","16/17"
+"185","
+						Brisbane Roar FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R10","Suncorp Stadium","15,605","
+						Hyundai A-League R10
+						Suncorp Stadium
+					","Hyundai A-League R10","Suncorp Stadium","2016-12-11T06:00:00+00:00","
+							Attendance
+							15,605
+						","Attendance","15,605","16/17"
+"186","
+						Newcastle Jets
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R11","McDonald Jones Stadium","5,642","
+						Hyundai A-League R11
+						McDonald Jones Stadium
+					","Hyundai A-League R11","McDonald Jones Stadium","2016-12-16T08:50:00+00:00","
+							Attendance
+							5,642
+						","Attendance","5,642","16/17"
+"187","
+						Wellington Phoenix
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R11","Mt Smart Stadium","5,702","
+						Hyundai A-League R11
+						Mt Smart Stadium
+					","Hyundai A-League R11","Mt Smart Stadium","2016-12-17T06:35:00+00:00","
+							Attendance
+							5,702
+						","Attendance","5,702","16/17"
+"188","
+						Melbourne City FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R11","AAMI Park","24,706","
+						Hyundai A-League R11
+						AAMI Park
+					","Hyundai A-League R11","AAMI Park","2016-12-17T08:50:00+00:00","
+							Attendance
+							24,706
+						","Attendance","24,706","16/17"
+"189","
+						Perth Glory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R11","HBF Park","9,119","
+						Hyundai A-League R11
+						HBF Park
+					","Hyundai A-League R11","HBF Park","2016-12-17T11:00:00+00:00","
+							Attendance
+							9,119
+						","Attendance","9,119","16/17"
+"190","
+						Central Coast Mariners
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R11","Central Coast Stadium","6,063","
+						Hyundai A-League R11
+						Central Coast Stadium
+					","Hyundai A-League R11","Central Coast Stadium","2016-12-18T06:00:00+00:00","
+							Attendance
+							6,063
+						","Attendance","6,063","16/17"
+"191","
+						Brisbane Roar FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R12","Suncorp Stadium","13,110","
+						Hyundai A-League R12
+						Suncorp Stadium
+					","Hyundai A-League R12","Suncorp Stadium","2016-12-23T08:50:00+00:00","
+							Attendance
+							13,110
+						","Attendance","13,110","16/17"
+"192","
+						Newcastle Jets
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R12","McDonald Jones Stadium","8,451","
+						Hyundai A-League R12
+						McDonald Jones Stadium
+					","Hyundai A-League R12","McDonald Jones Stadium","2016-12-26T06:35:00+00:00","
+							Attendance
+							8,451
+						","Attendance","8,451","16/17"
+"193","
+						Adelaide United
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R12","Coopers Stadium","11,805","
+						Hyundai A-League R12
+						Coopers Stadium
+					","Hyundai A-League R12","Coopers Stadium","2016-12-26T08:50:00+00:00","
+							Attendance
+							11,805
+						","Attendance","11,805","16/17"
+"194","
+						Melbourne City FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R12","AAMI Park","11,269","
+						Hyundai A-League R12
+						AAMI Park
+					","Hyundai A-League R12","AAMI Park","2016-12-27T08:50:00+00:00","
+							Attendance
+							11,269
+						","Attendance","11,269","16/17"
+"195","
+						Melbourne Victory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R12","AAMI Park","20,491","
+						Hyundai A-League R12
+						AAMI Park
+					","Hyundai A-League R12","AAMI Park","2016-12-28T08:50:00+00:00","
+							Attendance
+							20,491
+						","Attendance","20,491","16/17"
+"196","
+						Sydney FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R13","Allianz Stadium","16,510","
+						Hyundai A-League R13
+						Allianz Stadium
+					","Hyundai A-League R13","Allianz Stadium","2016-12-30T08:50:00+00:00","
+							Attendance
+							16,510
+						","Attendance","16,510","16/17"
+"197","
+						Central Coast Mariners
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R13","Central Coast Stadium","11,184","
+						Hyundai A-League R13
+						Central Coast Stadium
+					","Hyundai A-League R13","Central Coast Stadium","2016-12-31T08:00:00+00:00","
+							Attendance
+							11,184
+						","Attendance","11,184","16/17"
+"198","
+						Western Sydney Wanderers FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R13","ANZ Stadium","12,203","
+						Hyundai A-League R13
+						ANZ Stadium
+					","Hyundai A-League R13","ANZ Stadium","2017-01-01T08:50:00+00:00","
+							Attendance
+							12,203
+						","Attendance","12,203","16/17"
+"199","
+						Wellington Phoenix
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R13","Westpac Stadium","5,548","
+						Hyundai A-League R13
+						Westpac Stadium
+					","Hyundai A-League R13","Westpac Stadium","2017-01-01T06:35:00+00:00","
+							Attendance
+							5,548
+						","Attendance","5,548","16/17"
+"200","
+						Melbourne Victory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R13","GMHBA Stadium","14,081","
+						Hyundai A-League R13
+						GMHBA Stadium
+					","Hyundai A-League R13","GMHBA Stadium","2017-01-02T08:50:00+00:00","
+							Attendance
+							14,081
+						","Attendance","14,081","16/17"
+"201","
+						Perth Glory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R14","HBF Park","9,210","
+						Hyundai A-League R14
+						HBF Park
+					","Hyundai A-League R14","HBF Park","2017-01-05T10:00:00+00:00","
+							Attendance
+							9,210
+						","Attendance","9,210","16/17"
+"202","
+						Melbourne City FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R14","AAMI Park","10,731","
+						Hyundai A-League R14
+						AAMI Park
+					","Hyundai A-League R14","AAMI Park","2017-01-06T08:50:00+00:00","
+							Attendance
+							10,731
+						","Attendance","10,731","16/17"
+"203","
+						Brisbane Roar FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R14","Suncorp Stadium","14,470","
+						Hyundai A-League R14
+						Suncorp Stadium
+					","Hyundai A-League R14","Suncorp Stadium","2017-01-07T06:35:00+00:00","
+							Attendance
+							14,470
+						","Attendance","14,470","16/17"
+"204","
+						Adelaide United
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R14","Coopers Stadium","10,036","
+						Hyundai A-League R14
+						Coopers Stadium
+					","Hyundai A-League R14","Coopers Stadium","2017-01-07T08:50:00+00:00","
+							Attendance
+							10,036
+						","Attendance","10,036","16/17"
+"205","
+						Central Coast Mariners
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R14","Central Coast Stadium","11,398","
+						Hyundai A-League R14
+						Central Coast Stadium
+					","Hyundai A-League R14","Central Coast Stadium","2017-01-08T06:00:00+00:00","
+							Attendance
+							11,398
+						","Attendance","11,398","16/17"
+"206","
+						Adelaide United
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R15","Coopers Stadium","10,607","
+						Hyundai A-League R15
+						Coopers Stadium
+					","Hyundai A-League R15","Coopers Stadium","2017-01-12T08:50:00+00:00","
+							Attendance
+							10,607
+						","Attendance","10,607","16/17"
+"207","
+						Melbourne Victory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R15","AAMI Park","21,103","
+						Hyundai A-League R15
+						AAMI Park
+					","Hyundai A-League R15","AAMI Park","2017-01-13T08:50:00+00:00","
+							Attendance
+							21,103
+						","Attendance","21,103","16/17"
+"208","
+						Wellington Phoenix
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R15","Westpac Stadium","6,061","
+						Hyundai A-League R15
+						Westpac Stadium
+					","Hyundai A-League R15","Westpac Stadium","2017-01-14T06:35:00+00:00","
+							Attendance
+							6,061
+						","Attendance","6,061","16/17"
+"209","
+						Sydney FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R15","Allianz Stadium","40,143","
+						Hyundai A-League R15
+						Allianz Stadium
+					","Hyundai A-League R15","Allianz Stadium","2017-01-14T08:50:00+00:00","
+							Attendance
+							40,143
+						","Attendance","40,143","16/17"
+"210","
+						Newcastle Jets
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R15","McDonald Jones Stadium","9,174","
+						Hyundai A-League R15
+						McDonald Jones Stadium
+					","Hyundai A-League R15","McDonald Jones Stadium","2017-01-15T06:00:00+00:00","
+							Attendance
+							9,174
+						","Attendance","9,174","16/17"
+"211","
+						Melbourne City FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R16","AAMI Park","8,784","
+						Hyundai A-League R16
+						AAMI Park
+					","Hyundai A-League R16","AAMI Park","2017-01-19T08:50:00+00:00","
+							Attendance
+							8,784
+						","Attendance","8,784","16/17"
+"212","
+						Sydney FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R16","Allianz Stadium","11,255","
+						Hyundai A-League R16
+						Allianz Stadium
+					","Hyundai A-League R16","Allianz Stadium","2017-01-20T08:50:00+00:00","
+							Attendance
+							11,255
+						","Attendance","11,255","16/17"
+"213","
+						Wellington Phoenix
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R16","Westpac Stadium","6,449","
+						Hyundai A-League R16
+						Westpac Stadium
+					","Hyundai A-League R16","Westpac Stadium","2017-01-21T06:35:00+00:00","
+							Attendance
+							6,449
+						","Attendance","6,449","16/17"
+"214","
+						Perth Glory
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R16","HBF Park","11,271","
+						Hyundai A-League R16
+						HBF Park
+					","Hyundai A-League R16","HBF Park","2017-01-21T09:00:00+00:00","
+							Attendance
+							11,271
+						","Attendance","11,271","16/17"
+"215","
+						Western Sydney Wanderers FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R16","Campbelltown Stadium","9,477","
+						Hyundai A-League R16
+						Campbelltown Stadium
+					","Hyundai A-League R16","Campbelltown Stadium","2017-01-22T06:00:00+00:00","
+							Attendance
+							9,477
+						","Attendance","9,477","16/17"
+"216","
+						Melbourne Victory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R17","Etihad Stadium","30,262","
+						Hyundai A-League R17
+						Etihad Stadium
+					","Hyundai A-League R17","Etihad Stadium","2017-01-26T08:50:00+00:00","
+							Attendance
+							30,262
+						","Attendance","30,262","16/17"
+"217","
+						Newcastle Jets
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R17","Coffs International Stadium","7,891","
+						Hyundai A-League R17
+						Coffs International Stadium
+					","Hyundai A-League R17","Coffs International Stadium","2017-01-27T08:50:00+00:00","
+							Attendance
+							7,891
+						","Attendance","7,891","16/17"
+"218","
+						Central Coast Mariners
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R17","Central Coast Stadium","7,205","
+						Hyundai A-League R17
+						Central Coast Stadium
+					","Hyundai A-League R17","Central Coast Stadium","2017-01-28T06:35:00+00:00","
+							Attendance
+							7,205
+						","Attendance","7,205","16/17"
+"219","
+						Brisbane Roar FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R17","Suncorp Stadium","13,058","
+						Hyundai A-League R17
+						Suncorp Stadium
+					","Hyundai A-League R17","Suncorp Stadium","2017-01-28T08:50:00+00:00","
+							Attendance
+							13,058
+						","Attendance","13,058","16/17"
+"220","
+						Adelaide United
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R17","Coopers Stadium","8,313","
+						Hyundai A-League R17
+						Coopers Stadium
+					","Hyundai A-League R17","Coopers Stadium","2017-01-29T06:00:00+00:00","
+							Attendance
+							8,313
+						","Attendance","8,313","16/17"
+"221","
+						Brisbane Roar FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R18","Suncorp Stadium","13,095","
+						Hyundai A-League R18
+						Suncorp Stadium
+					","Hyundai A-League R18","Suncorp Stadium","2017-02-03T08:50:00+00:00","
+							Attendance
+							13,095
+						","Attendance","13,095","16/17"
+"222","
+						Wellington Phoenix
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R18","Yarrow Stadium","5,185","
+						Hyundai A-League R18
+						Yarrow Stadium
+					","Hyundai A-League R18","Yarrow Stadium","2017-02-04T06:35:00+00:00","
+							Attendance
+							5,185
+						","Attendance","5,185","16/17"
+"223","
+						Melbourne Victory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R18","Marvel Stadium","35,426","
+						Hyundai A-League R18
+						Marvel Stadium
+					","Hyundai A-League R18","Marvel Stadium","2017-02-04T08:50:00+00:00","
+							Attendance
+							35,426
+						","Attendance","35,426","16/17"
+"224","
+						Perth Glory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R18","HBF Park","12,903","
+						Hyundai A-League R18
+						HBF Park
+					","Hyundai A-League R18","HBF Park","2017-02-04T11:00:00+00:00","
+							Attendance
+							12,903
+						","Attendance","12,903","16/17"
+"225","
+						Central Coast Mariners
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R18","GIO Stadium","5,072","
+						Hyundai A-League R18
+						GIO Stadium
+					","Hyundai A-League R18","GIO Stadium","2017-02-05T06:00:00+00:00","
+							Attendance
+							5,072
+						","Attendance","5,072","16/17"
+"226","
+						Sydney FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R19","Allianz Stadium","8,380","
+						Hyundai A-League R19
+						Allianz Stadium
+					","Hyundai A-League R19","Allianz Stadium","2017-02-09T08:50:00+00:00","
+							Attendance
+							8,380
+						","Attendance","8,380","16/17"
+"227","
+						Adelaide United
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R19","Coopers Stadium","6,006","
+						Hyundai A-League R19
+						Coopers Stadium
+					","Hyundai A-League R19","Coopers Stadium","2017-02-10T09:50:00+00:00","
+							Attendance
+							6,006
+						","Attendance","6,006","16/17"
+"228","
+						Newcastle Jets
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R19","McDonald Jones Stadium","6,233","
+						Hyundai A-League R19
+						McDonald Jones Stadium
+					","Hyundai A-League R19","McDonald Jones Stadium","2017-02-13T08:50:00+00:00","
+							Attendance
+							6,233
+						","Attendance","6,233","16/17"
+"229","
+						Melbourne City FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R19","AAMI Park","7,914","
+						Hyundai A-League R19
+						AAMI Park
+					","Hyundai A-League R19","AAMI Park","2017-02-11T08:50:00+00:00","
+							Attendance
+							7,914
+						","Attendance","7,914","16/17"
+"230","
+						Western Sydney Wanderers FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R19","Spotless Stadium","9,618","
+						Hyundai A-League R19
+						Spotless Stadium
+					","Hyundai A-League R19","Spotless Stadium","2017-02-12T06:00:00+00:00","
+							Attendance
+							9,618
+						","Attendance","9,618","16/17"
+"231","
+						Adelaide United
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R20","Coopers Stadium","6,642","
+						Hyundai A-League R20
+						Coopers Stadium
+					","Hyundai A-League R20","Coopers Stadium","2017-02-17T08:50:00+00:00","
+							Attendance
+							6,642
+						","Attendance","6,642","16/17"
+"232","
+						Wellington Phoenix
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R20","Westpac Stadium","6,131","
+						Hyundai A-League R20
+						Westpac Stadium
+					","Hyundai A-League R20","Westpac Stadium","2017-02-18T06:35:00+00:00","
+							Attendance
+							6,131
+						","Attendance","6,131","16/17"
+"233","
+						Western Sydney Wanderers FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R20","ANZ Stadium","44,843","
+						Hyundai A-League R20
+						ANZ Stadium
+					","Hyundai A-League R20","ANZ Stadium","2017-02-18T08:50:00+00:00","
+							Attendance
+							44,843
+						","Attendance","44,843","16/17"
+"234","
+						Perth Glory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R20","HBF Park","10,762","
+						Hyundai A-League R20
+						HBF Park
+					","Hyundai A-League R20","HBF Park","2017-02-18T11:00:00+00:00","
+							Attendance
+							10,762
+						","Attendance","10,762","16/17"
+"235","
+						Central Coast Mariners
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R20","Central Coast Stadium","7,013","
+						Hyundai A-League R20
+						Central Coast Stadium
+					","Hyundai A-League R20","Central Coast Stadium","2017-02-19T06:00:00+00:00","
+							Attendance
+							7,013
+						","Attendance","7,013","16/17"
+"236","
+						Melbourne City FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R21","AAMI Park","10,706","
+						Hyundai A-League R21
+						AAMI Park
+					","Hyundai A-League R21","AAMI Park","2017-02-24T08:50:00+00:00","
+							Attendance
+							10,706
+						","Attendance","10,706","16/17"
+"237","
+						Newcastle Jets
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R21","McDonald Jones Stadium","9,423","
+						Hyundai A-League R21
+						McDonald Jones Stadium
+					","Hyundai A-League R21","McDonald Jones Stadium","2017-02-26T06:00:00+00:00","
+							Attendance
+							9,423
+						","Attendance","9,423","16/17"
+"238","
+						Melbourne Victory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R21","AAMI Park","19,035","
+						Hyundai A-League R21
+						AAMI Park
+					","Hyundai A-League R21","AAMI Park","2017-02-25T08:50:00+00:00","
+							Attendance
+							19,035
+						","Attendance","19,035","16/17"
+"239","
+						Perth Glory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R21","HBF Park","9,789","
+						Hyundai A-League R21
+						HBF Park
+					","Hyundai A-League R21","HBF Park","2017-02-25T11:00:00+00:00","
+							Attendance
+							9,789
+						","Attendance","9,789","16/17"
+"240","
+						Brisbane Roar FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R21","Suncorp Stadium","10,723","
+						Hyundai A-League R21
+						Suncorp Stadium
+					","Hyundai A-League R21","Suncorp Stadium","2017-02-25T06:35:00+00:00","
+							Attendance
+							10,723
+						","Attendance","10,723","16/17"
+"241","
+						Newcastle Jets
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R22","McDonald Jones Stadium","7,122","
+						Hyundai A-League R22
+						McDonald Jones Stadium
+					","Hyundai A-League R22","McDonald Jones Stadium","2017-03-05T08:00:00+00:00","
+							Attendance
+							7,122
+						","Attendance","7,122","16/17"
+"242","
+						Wellington Phoenix
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R22","QBE Stadium","6,285","
+						Hyundai A-League R22
+						QBE Stadium
+					","Hyundai A-League R22","QBE Stadium","2017-03-04T06:35:00+00:00","
+							Attendance
+							6,285
+						","Attendance","6,285","16/17"
+"243","
+						Western Sydney Wanderers FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R22","Spotless Stadium","8,965","
+						Hyundai A-League R22
+						Spotless Stadium
+					","Hyundai A-League R22","Spotless Stadium","2017-03-04T08:50:00+00:00","
+							Attendance
+							8,965
+						","Attendance","8,965","16/17"
+"244","
+						Central Coast Mariners
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R22","Central Coast Stadium","5,974","
+						Hyundai A-League R22
+						Central Coast Stadium
+					","Hyundai A-League R22","Central Coast Stadium","2017-03-05T06:00:00+00:00","
+							Attendance
+							5,974
+						","Attendance","5,974","16/17"
+"245","
+						Sydney FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R22","Allianz Stadium","13,310","
+						Hyundai A-League R22
+						Allianz Stadium
+					","Hyundai A-League R22","Allianz Stadium","2017-03-03T08:50:00+00:00","
+							Attendance
+							13,310
+						","Attendance","13,310","16/17"
+"246","
+						Sydney FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R23","Allianz Stadium","11,148","
+						Hyundai A-League R23
+						Allianz Stadium
+					","Hyundai A-League R23","Allianz Stadium","2017-03-10T08:50:00+00:00","
+							Attendance
+							11,148
+						","Attendance","11,148","16/17"
+"247","
+						Melbourne Victory
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R23","AAMI Park","16,814","
+						Hyundai A-League R23
+						AAMI Park
+					","Hyundai A-League R23","AAMI Park","2017-03-11T08:50:00+00:00","
+							Attendance
+							16,814
+						","Attendance","16,814","16/17"
+"248","
+						Melbourne City FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R23","AAMI Park","8,949","
+						Hyundai A-League R23
+						AAMI Park
+					","Hyundai A-League R23","AAMI Park","2017-03-18T08:50:00+00:00","
+							Attendance
+							8,949
+						","Attendance","8,949","16/17"
+"249","
+						Adelaide United
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R23","Coopers Stadium","7,197","
+						Hyundai A-League R23
+						Coopers Stadium
+					","Hyundai A-League R23","Coopers Stadium","2017-03-19T06:00:00+00:00","
+							Attendance
+							7,197
+						","Attendance","7,197","16/17"
+"250","
+						Western Sydney Wanderers FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R23","Spotless Stadium","7,828","
+						Hyundai A-League R23
+						Spotless Stadium
+					","Hyundai A-League R23","Spotless Stadium","2017-03-19T08:00:00+00:00","
+							Attendance
+							7,828
+						","Attendance","7,828","16/17"
+"251","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R24","Spotless Stadium","10,204","
+						Hyundai A-League R24
+						Spotless Stadium
+					","Hyundai A-League R24","Spotless Stadium","2017-03-24T08:50:00+00:00","
+							Attendance
+							10,204
+						","Attendance","10,204","16/17"
+"252","
+						Central Coast Mariners
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R24","Central Coast Stadium","5,438","
+						Hyundai A-League R24
+						Central Coast Stadium
+					","Hyundai A-League R24","Central Coast Stadium","2017-03-25T06:35:00+00:00","
+							Attendance
+							5,438
+						","Attendance","5,438","16/17"
+"253","
+						Brisbane Roar FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R24","Suncorp Stadium","13,576","
+						Hyundai A-League R24
+						Suncorp Stadium
+					","Hyundai A-League R24","Suncorp Stadium","2017-03-25T08:50:00+00:00","
+							Attendance
+							13,576
+						","Attendance","13,576","16/17"
+"254","
+						Wellington Phoenix
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R24","Westpac Stadium","4,828","
+						Hyundai A-League R24
+						Westpac Stadium
+					","Hyundai A-League R24","Westpac Stadium","2017-03-26T06:00:00+00:00","
+							Attendance
+							4,828
+						","Attendance","4,828","16/17"
+"255","
+						Perth Glory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R24","HBF Park","10,097","
+						Hyundai A-League R24
+						HBF Park
+					","Hyundai A-League R24","HBF Park","2017-03-26T08:00:00+00:00","
+							Attendance
+							10,097
+						","Attendance","10,097","16/17"
+"256","
+						Adelaide United
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R25","Coopers Stadium","7,307","
+						Hyundai A-League R25
+						Coopers Stadium
+					","Hyundai A-League R25","Coopers Stadium","2017-03-31T08:50:00+00:00","
+							Attendance
+							7,307
+						","Attendance","7,307","16/17"
+"257","
+						Newcastle Jets
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R25","McDonald Jones Stadium","9,380","
+						Hyundai A-League R25
+						McDonald Jones Stadium
+					","Hyundai A-League R25","McDonald Jones Stadium","2017-04-01T06:35:00+00:00","
+							Attendance
+							9,380
+						","Attendance","9,380","16/17"
+"258","
+						Sydney FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R25","Allianz Stadium","15,266","
+						Hyundai A-League R25
+						Allianz Stadium
+					","Hyundai A-League R25","Allianz Stadium","2017-04-01T08:50:00+00:00","
+							Attendance
+							15,266
+						","Attendance","15,266","16/17"
+"259","
+						Melbourne Victory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R25","AAMI Park","17,011","
+						Hyundai A-League R25
+						AAMI Park
+					","Hyundai A-League R25","AAMI Park","2017-04-02T07:00:00+00:00","
+							Attendance
+							17,011
+						","Attendance","17,011","16/17"
+"260","
+						Brisbane Roar FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R25","Suncorp Stadium","8,113","
+						Hyundai A-League R25
+						Suncorp Stadium
+					","Hyundai A-League R25","Suncorp Stadium","2017-04-02T09:00:00+00:00","
+							Attendance
+							8,113
+						","Attendance","8,113","16/17"
+"261","
+						Melbourne City FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R26","AAMI Park","9,238","
+						Hyundai A-League R26
+						AAMI Park
+					","Hyundai A-League R26","AAMI Park","2017-04-07T09:50:00+00:00","
+							Attendance
+							9,238
+						","Attendance","9,238","16/17"
+"262","
+						Wellington Phoenix
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R26","Westpac Stadium","6,610","
+						Hyundai A-League R26
+						Westpac Stadium
+					","Hyundai A-League R26","Westpac Stadium","2017-04-08T07:35:00+00:00","
+							Attendance
+							6,610
+						","Attendance","6,610","16/17"
+"263","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R26","ANZ Stadium","16,345","
+						Hyundai A-League R26
+						ANZ Stadium
+					","Hyundai A-League R26","ANZ Stadium","2017-04-08T09:50:00+00:00","
+							Attendance
+							16,345
+						","Attendance","16,345","16/17"
+"264","
+						Perth Glory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R26","HBF Park","8,834","
+						Hyundai A-League R26
+						HBF Park
+					","Hyundai A-League R26","HBF Park","2017-04-08T12:00:00+00:00","
+							Attendance
+							8,834
+						","Attendance","8,834","16/17"
+"265","
+						Central Coast Mariners
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R26","Central Coast Stadium","8,073","
+						Hyundai A-League R26
+						Central Coast Stadium
+					","Hyundai A-League R26","Central Coast Stadium","2017-04-09T07:00:00+00:00","
+							Attendance
+							8,073
+						","Attendance","8,073","16/17"
+"266","
+						Melbourne Victory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R27","AAMI Park","14,827","
+						Hyundai A-League R27
+						AAMI Park
+					","Hyundai A-League R27","AAMI Park","2017-04-14T09:50:00+00:00","
+							Attendance
+							14,827
+						","Attendance","14,827","16/17"
+"267","
+						Sydney FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R27","Allianz Stadium","15,787","
+						Hyundai A-League R27
+						Allianz Stadium
+					","Hyundai A-League R27","Allianz Stadium","2017-04-15T07:35:00+00:00","
+							Attendance
+							15,787
+						","Attendance","15,787","16/17"
+"268","
+						Adelaide United
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R27","Coopers Stadium","7,636","
+						Hyundai A-League R27
+						Coopers Stadium
+					","Hyundai A-League R27","Coopers Stadium","2017-04-15T09:50:00+00:00","
+							Attendance
+							7,636
+						","Attendance","7,636","16/17"
+"269","
+						Brisbane Roar FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R27","Suncorp Stadium","12,098","
+						Hyundai A-League R27
+						Suncorp Stadium
+					","Hyundai A-League R27","Suncorp Stadium","2017-04-16T07:00:00+00:00","
+							Attendance
+							12,098
+						","Attendance","12,098","16/17"
+"270","
+						Perth Glory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R27","HBF Park","12,621","
+						Hyundai A-League R27
+						HBF Park
+					","Hyundai A-League R27","HBF Park","2017-04-16T09:00:00+00:00","
+							Attendance
+							12,621
+						","Attendance","12,621","16/17"
+"271","
+						Western Sydney Wanderers FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R1","Pirtek Stadium","14,122","
+						Hyundai A-League R1
+						Pirtek Stadium
+					","Hyundai A-League R1","Pirtek Stadium","2015-10-08T09:00:00+00:00","
+							Attendance
+							14,122
+						","Attendance","14,122","15/16"
+"272","
+						Adelaide United
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R1","Adelaide Oval","19,079","
+						Hyundai A-League R1
+						Adelaide Oval
+					","Hyundai A-League R1","Adelaide Oval","2015-10-09T08:40:00+00:00","
+							Attendance
+							19,079
+						","Attendance","19,079","15/16"
+"273","
+						Central Coast Mariners
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R1","Central Coast Stadium","8,073","
+						Hyundai A-League R1
+						Central Coast Stadium
+					","Hyundai A-League R1","Central Coast Stadium","2015-10-10T06:15:00+00:00","
+							Attendance
+							8,073
+						","Attendance","8,073","15/16"
+"274","
+						Sydney FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R1","Allianz Stadium","17,051","
+						Hyundai A-League R1
+						Allianz Stadium
+					","Hyundai A-League R1","Allianz Stadium","2015-10-10T08:30:00+00:00","
+							Attendance
+							17,051
+						","Attendance","17,051","15/16"
+"275","
+						Wellington Phoenix
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R1","Westpac Stadium","6,255","
+						Hyundai A-League R1
+						Westpac Stadium
+					","Hyundai A-League R1","Westpac Stadium","2015-10-11T06:00:00+00:00","
+							Attendance
+							6,255
+						","Attendance","6,255","15/16"
+"276","
+						Adelaide United
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R2","Coopers Stadium","9,442","
+						Hyundai A-League R2
+						Coopers Stadium
+					","Hyundai A-League R2","Coopers Stadium","2015-10-16T08:40:00+00:00","
+							Attendance
+							9,442
+						","Attendance","9,442","15/16"
+"277","
+						Newcastle Jets
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R2","McDonald Jones Stadium","12,713","
+						Hyundai A-League R2
+						McDonald Jones Stadium
+					","Hyundai A-League R2","McDonald Jones Stadium","2015-10-17T06:15:00+00:00","
+							Attendance
+							12,713
+						","Attendance","12,713","15/16"
+"278","
+						Melbourne Victory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R2","Marvel Stadium","40,217","
+						Hyundai A-League R2
+						Marvel Stadium
+					","Hyundai A-League R2","Marvel Stadium","2015-10-17T08:30:00+00:00","
+							Attendance
+							40,217
+						","Attendance","40,217","15/16"
+"279","
+						Brisbane Roar FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R2","Suncorp Stadium","14,471","
+						Hyundai A-League R2
+						Suncorp Stadium
+					","Hyundai A-League R2","Suncorp Stadium","2015-10-18T06:00:00+00:00","
+							Attendance
+							14,471
+						","Attendance","14,471","15/16"
+"280","
+						Perth Glory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R2","HBF Park","8,145","
+						Hyundai A-League R2
+						HBF Park
+					","Hyundai A-League R2","HBF Park","2015-10-18T08:00:00+00:00","
+							Attendance
+							8,145
+						","Attendance","8,145","15/16"
+"281","
+						Wellington Phoenix
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R3","Westpac Stadium","6,103","
+						Hyundai A-League R3
+						Westpac Stadium
+					","Hyundai A-League R3","Westpac Stadium","2015-10-24T06:15:00+00:00","
+							Attendance
+							6,103
+						","Attendance","6,103","15/16"
+"282","
+						Sydney FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R3","Allianz Stadium","40,539","
+						Hyundai A-League R3
+						Allianz Stadium
+					","Hyundai A-League R3","Allianz Stadium","2015-10-24T08:30:00+00:00","
+							Attendance
+							40,539
+						","Attendance","40,539","15/16"
+"283","
+						Melbourne City FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R3","AAMI Park","8,408","
+						Hyundai A-League R3
+						AAMI Park
+					","Hyundai A-League R3","AAMI Park","2015-10-25T06:00:00+00:00","
+							Attendance
+							8,408
+						","Attendance","8,408","15/16"
+"284","
+						Perth Glory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R3","HBF Park","7,728","
+						Hyundai A-League R3
+						HBF Park
+					","Hyundai A-League R3","HBF Park","2015-10-25T08:00:00+00:00","
+							Attendance
+							7,728
+						","Attendance","7,728","15/16"
+"285","
+						Melbourne City FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R4","AAMI Park","7,209","
+						Hyundai A-League R4
+						AAMI Park
+					","Hyundai A-League R4","AAMI Park","2015-10-30T08:40:00+00:00","
+							Attendance
+							7,209
+						","Attendance","7,209","15/16"
+"286","
+						Central Coast Mariners
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R4","Central Coast Stadium","10,030","
+						Hyundai A-League R4
+						Central Coast Stadium
+					","Hyundai A-League R4","Central Coast Stadium","2015-10-31T06:15:00+00:00","
+							Attendance
+							10,030
+						","Attendance","10,030","15/16"
+"287","
+						Brisbane Roar FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R4","Suncorp Stadium","10,707","
+						Hyundai A-League R4
+						Suncorp Stadium
+					","Hyundai A-League R4","Suncorp Stadium","2015-10-31T08:30:00+00:00","
+							Attendance
+							10,707
+						","Attendance","10,707","15/16"
+"288","
+						Western Sydney Wanderers FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R4","Pirtek Stadium","14,194","
+						Hyundai A-League R4
+						Pirtek Stadium
+					","Hyundai A-League R4","Pirtek Stadium","2015-11-01T06:00:00+00:00","
+							Attendance
+							14,194
+						","Attendance","14,194","15/16"
+"289","
+						Melbourne Victory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R4","Marvel Stadium","24,934","
+						Hyundai A-League R4
+						Marvel Stadium
+					","Hyundai A-League R4","Marvel Stadium","2015-11-02T08:30:00+00:00","
+							Attendance
+							24,934
+						","Attendance","24,934","15/16"
+"290","
+						Adelaide United
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R5","Coopers Stadium","8,632","
+						Hyundai A-League R5
+						Coopers Stadium
+					","Hyundai A-League R5","Coopers Stadium","2015-11-05T09:00:00+00:00","
+							Attendance
+							8,632
+						","Attendance","8,632","15/16"
+"291","
+						Sydney FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R5","Allianz Stadium","12,857","
+						Hyundai A-League R5
+						Allianz Stadium
+					","Hyundai A-League R5","Allianz Stadium","2015-11-06T08:40:00+00:00","
+							Attendance
+							12,857
+						","Attendance","12,857","15/16"
+"292","
+						Newcastle Jets
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R5","McDonald Jones Stadium","14,886","
+						Hyundai A-League R5
+						McDonald Jones Stadium
+					","Hyundai A-League R5","McDonald Jones Stadium","2015-11-07T06:15:00+00:00","
+							Attendance
+							14,886
+						","Attendance","14,886","15/16"
+"293","
+						Central Coast Mariners
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R5","Central Coast Stadium","6,460","
+						Hyundai A-League R5
+						Central Coast Stadium
+					","Hyundai A-League R5","Central Coast Stadium","2015-11-08T06:00:00+00:00","
+							Attendance
+							6,460
+						","Attendance","6,460","15/16"
+"294","
+						Perth Glory
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R5","HBF Park","5,398","
+						Hyundai A-League R5
+						HBF Park
+					","Hyundai A-League R5","HBF Park","2015-12-16T10:00:00+00:00","
+							Attendance
+							5,398
+						","Attendance","5,398","15/16"
+"295","
+						Wellington Phoenix
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R6","Westpac Stadium","13,654","
+						Hyundai A-League R6
+						Westpac Stadium
+					","Hyundai A-League R6","Westpac Stadium","2015-11-13T06:30:00+00:00","
+							Attendance
+							13,654
+						","Attendance","13,654","15/16"
+"296","
+						Melbourne City FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R6","AAMI Park","7,910","
+						Hyundai A-League R6
+						AAMI Park
+					","Hyundai A-League R6","AAMI Park","2015-11-13T08:40:00+00:00","
+							Attendance
+							7,910
+						","Attendance","7,910","15/16"
+"297","
+						Newcastle Jets
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R6","McDonald Jones Stadium","9,422","
+						Hyundai A-League R6
+						McDonald Jones Stadium
+					","Hyundai A-League R6","McDonald Jones Stadium","2015-11-14T06:15:00+00:00","
+							Attendance
+							9,422
+						","Attendance","9,422","15/16"
+"298","
+						Sydney FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R6","Allianz Stadium","15,947","
+						Hyundai A-League R6
+						Allianz Stadium
+					","Hyundai A-League R6","Allianz Stadium","2015-11-14T08:30:00+00:00","
+							Attendance
+							15,947
+						","Attendance","15,947","15/16"
+"299","
+						Brisbane Roar FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R6","Suncorp Stadium","11,748","
+						Hyundai A-League R6
+						Suncorp Stadium
+					","Hyundai A-League R6","Suncorp Stadium","2015-11-15T06:00:00+00:00","
+							Attendance
+							11,748
+						","Attendance","11,748","15/16"
+"300","
+						Melbourne Victory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R7","AAMI Park","16,669","
+						Hyundai A-League R7
+						AAMI Park
+					","Hyundai A-League R7","AAMI Park","2015-11-19T09:00:00+00:00","
+							Attendance
+							16,669
+						","Attendance","16,669","15/16"
+"301","
+						Brisbane Roar FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R7","Suncorp Stadium","10,812","
+						Hyundai A-League R7
+						Suncorp Stadium
+					","Hyundai A-League R7","Suncorp Stadium","2015-11-20T09:00:00+00:00","
+							Attendance
+							10,812
+						","Attendance","10,812","15/16"
+"302","
+						Western Sydney Wanderers FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R7","Pirtek Stadium","14,426","
+						Hyundai A-League R7
+						Pirtek Stadium
+					","Hyundai A-League R7","Pirtek Stadium","2015-11-21T06:15:00+00:00","
+							Attendance
+							14,426
+						","Attendance","14,426","15/16"
+"303","
+						Perth Glory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R7","HBF Park","6,976","
+						Hyundai A-League R7
+						HBF Park
+					","Hyundai A-League R7","HBF Park","2015-11-21T08:30:00+00:00","
+							Attendance
+							6,976
+						","Attendance","6,976","15/16"
+"304","
+						Adelaide United
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R7","Coopers Stadium","10,048","
+						Hyundai A-League R7
+						Coopers Stadium
+					","Hyundai A-League R7","Coopers Stadium","2015-11-22T06:00:00+00:00","
+							Attendance
+							10,048
+						","Attendance","10,048","15/16"
+"305","
+						Sydney FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R8","Allianz Stadium","9,253","
+						Hyundai A-League R8
+						Allianz Stadium
+					","Hyundai A-League R8","Allianz Stadium","2015-11-26T09:00:00+00:00","
+							Attendance
+							9,253
+						","Attendance","9,253","15/16"
+"306","
+						Melbourne City FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R8","AAMI Park","5,943","
+						Hyundai A-League R8
+						AAMI Park
+					","Hyundai A-League R8","AAMI Park","2015-11-27T08:40:00+00:00","
+							Attendance
+							5,943
+						","Attendance","5,943","15/16"
+"307","
+						Newcastle Jets
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R8","McDonald Jones Stadium","10,115","
+						Hyundai A-League R8
+						McDonald Jones Stadium
+					","Hyundai A-League R8","McDonald Jones Stadium","2015-11-28T06:15:00+00:00","
+							Attendance
+							10,115
+						","Attendance","10,115","15/16"
+"308","
+						Melbourne Victory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R8","Marvel Stadium","23,415","
+						Hyundai A-League R8
+						Marvel Stadium
+					","Hyundai A-League R8","Marvel Stadium","2015-11-28T08:30:00+00:00","
+							Attendance
+							23,415
+						","Attendance","23,415","15/16"
+"309","
+						Central Coast Mariners
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R8","Central Coast Stadium","10,519","
+						Hyundai A-League R8
+						Central Coast Stadium
+					","Hyundai A-League R8","Central Coast Stadium","2015-11-29T06:00:00+00:00","
+							Attendance
+							10,519
+						","Attendance","10,519","15/16"
+"310","
+						Central Coast Mariners
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R9","Central Coast Stadium","4,514","
+						Hyundai A-League R9
+						Central Coast Stadium
+					","Hyundai A-League R9","Central Coast Stadium","2015-12-03T09:00:00+00:00","
+							Attendance
+							4,514
+						","Attendance","4,514","15/16"
+"311","
+						Sydney FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R9","Allianz Stadium","9,155","
+						Hyundai A-League R9
+						Allianz Stadium
+					","Hyundai A-League R9","Allianz Stadium","2015-12-04T08:40:00+00:00","
+							Attendance
+							9,155
+						","Attendance","9,155","15/16"
+"312","
+						Wellington Phoenix
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R9","QBE Stadium","10,852","
+						Hyundai A-League R9
+						QBE Stadium
+					","Hyundai A-League R9","QBE Stadium","2015-12-05T06:15:00+00:00","
+							Attendance
+							10,852
+						","Attendance","10,852","15/16"
+"313","
+						Western Sydney Wanderers FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R9","Pirtek Stadium","9,860","
+						Hyundai A-League R9
+						Pirtek Stadium
+					","Hyundai A-League R9","Pirtek Stadium","2015-12-05T08:30:00+00:00","
+							Attendance
+							9,860
+						","Attendance","9,860","15/16"
+"314","
+						Brisbane Roar FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R10","Cazaly's Stadium","5,162","
+						Hyundai A-League R10
+						Cazaly's Stadium
+					","Hyundai A-League R10","Cazaly's Stadium","2015-12-12T06:15:00+00:00","
+							Attendance
+							5,162
+						","Attendance","5,162","15/16"
+"315","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R10","Pirtek Stadium","17,073","
+						Hyundai A-League R10
+						Pirtek Stadium
+					","Hyundai A-League R10","Pirtek Stadium","2015-12-12T08:30:00+00:00","
+							Attendance
+							17,073
+						","Attendance","17,073","15/16"
+"316","
+						Perth Glory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R10","HBF Park","5,590","
+						Hyundai A-League R10
+						HBF Park
+					","Hyundai A-League R10","HBF Park","2015-12-12T10:40:00+00:00","
+							Attendance
+							5,590
+						","Attendance","5,590","15/16"
+"317","
+						Newcastle Jets
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R10","McDonald Jones Stadium","10,087","
+						Hyundai A-League R10
+						McDonald Jones Stadium
+					","Hyundai A-League R10","McDonald Jones Stadium","2015-12-13T06:00:00+00:00","
+							Attendance
+							10,087
+						","Attendance","10,087","15/16"
+"318","
+						Newcastle Jets
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R11","McDonald Jones Stadium","7,332","
+						Hyundai A-League R11
+						McDonald Jones Stadium
+					","Hyundai A-League R11","McDonald Jones Stadium","2015-12-18T08:40:00+00:00","
+							Attendance
+							7,332
+						","Attendance","7,332","15/16"
+"319","
+						Wellington Phoenix
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R11","Westpac Stadium","10,027","
+						Hyundai A-League R11
+						Westpac Stadium
+					","Hyundai A-League R11","Westpac Stadium","2015-12-19T06:15:00+00:00","
+							Attendance
+							10,027
+						","Attendance","10,027","15/16"
+"320","
+						Melbourne City FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R11","AAMI Park","23,572","
+						Hyundai A-League R11
+						AAMI Park
+					","Hyundai A-League R11","AAMI Park","2015-12-19T08:30:00+00:00","
+							Attendance
+							23,572
+						","Attendance","23,572","15/16"
+"321","
+						Central Coast Mariners
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R11","Central Coast Stadium","5,124","
+						Hyundai A-League R11
+						Central Coast Stadium
+					","Hyundai A-League R11","Central Coast Stadium","2015-12-20T06:00:00+00:00","
+							Attendance
+							5,124
+						","Attendance","5,124","15/16"
+"322","
+						Western Sydney Wanderers FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R12","Pirtek Stadium","10,141","
+						Hyundai A-League R12
+						Pirtek Stadium
+					","Hyundai A-League R12","Pirtek Stadium","2015-12-24T08:00:00+00:00","
+							Attendance
+							10,141
+						","Attendance","10,141","15/16"
+"323","
+						Adelaide United
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R12","Coopers Stadium","11,655","
+						Hyundai A-League R12
+						Coopers Stadium
+					","Hyundai A-League R12","Coopers Stadium","2015-12-26T06:15:00+00:00","
+							Attendance
+							11,655
+						","Attendance","11,655","15/16"
+"324","
+						Sydney FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R12","Allianz Stadium","12,648","
+						Hyundai A-League R12
+						Allianz Stadium
+					","Hyundai A-League R12","Allianz Stadium","2015-12-26T08:30:00+00:00","
+							Attendance
+							12,648
+						","Attendance","12,648","15/16"
+"325","
+						Melbourne Victory
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R12","AAMI Park","22,544","
+						Hyundai A-League R12
+						AAMI Park
+					","Hyundai A-League R12","AAMI Park","2015-12-27T06:00:00+00:00","
+							Attendance
+							22,544
+						","Attendance","22,544","15/16"
+"326","
+						Brisbane Roar FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R12","Suncorp Stadium","16,435","
+						Hyundai A-League R12
+						Suncorp Stadium
+					","Hyundai A-League R12","Suncorp Stadium","2015-12-27T08:00:00+00:00","
+							Attendance
+							16,435
+						","Attendance","16,435","15/16"
+"327","
+						Central Coast Mariners
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R13","Central Coast Stadium","10,073","
+						Hyundai A-League R13
+						Central Coast Stadium
+					","Hyundai A-League R13","Central Coast Stadium","2015-12-31T08:00:00+00:00","
+							Attendance
+							10,073
+						","Attendance","10,073","15/16"
+"328","
+						Western Sydney Wanderers FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R13","Pirtek Stadium","16,312","
+						Hyundai A-League R13
+						Pirtek Stadium
+					","Hyundai A-League R13","Pirtek Stadium","2016-01-01T08:40:00+00:00","
+							Attendance
+							16,312
+						","Attendance","16,312","15/16"
+"329","
+						Brisbane Roar FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R13","Suncorp Stadium","17,696","
+						Hyundai A-League R13
+						Suncorp Stadium
+					","Hyundai A-League R13","Suncorp Stadium","2016-01-02T06:15:00+00:00","
+							Attendance
+							17,696
+						","Attendance","17,696","15/16"
+"330","
+						Melbourne City FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R13","AAMI Park","10,140","
+						Hyundai A-League R13
+						AAMI Park
+					","Hyundai A-League R13","AAMI Park","2016-01-02T08:30:00+00:00","
+							Attendance
+							10,140
+						","Attendance","10,140","15/16"
+"331","
+						Newcastle Jets
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R13","McDonald Jones Stadium","8,864","
+						Hyundai A-League R13
+						McDonald Jones Stadium
+					","Hyundai A-League R13","McDonald Jones Stadium","2016-01-03T06:00:00+00:00","
+							Attendance
+							8,864
+						","Attendance","8,864","15/16"
+"332","
+						Central Coast Mariners
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R14","GMHBA Stadium","14,268","
+						Hyundai A-League R14
+						GMHBA Stadium
+					","Hyundai A-League R14","GMHBA Stadium","2016-01-08T08:40:00+00:00","
+							Attendance
+							14,268
+						","Attendance","14,268","15/16"
+"333","
+						Sydney FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R14","ANZ Stadium","15,127","
+						Hyundai A-League R14
+						ANZ Stadium
+					","Hyundai A-League R14","ANZ Stadium","2016-01-09T06:15:00+00:00","
+							Attendance
+							15,127
+						","Attendance","15,127","15/16"
+"334","
+						Melbourne City FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R14","AAMI Park","9,776","
+						Hyundai A-League R14
+						AAMI Park
+					","Hyundai A-League R14","AAMI Park","2016-01-09T08:30:00+00:00","
+							Attendance
+							9,776
+						","Attendance","9,776","15/16"
+"335","
+						Perth Glory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R14","HBF Park","9,009","
+						Hyundai A-League R14
+						HBF Park
+					","Hyundai A-League R14","HBF Park","2016-01-09T10:40:00+00:00","
+							Attendance
+							9,009
+						","Attendance","9,009","15/16"
+"336","
+						Wellington Phoenix
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R14","Westpac Stadium","7,774","
+						Hyundai A-League R14
+						Westpac Stadium
+					","Hyundai A-League R14","Westpac Stadium","2016-01-10T06:00:00+00:00","
+							Attendance
+							7,774
+						","Attendance","7,774","15/16"
+"337","
+						Melbourne Victory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R15","AAMI Park","23,207","
+						Hyundai A-League R15
+						AAMI Park
+					","Hyundai A-League R15","AAMI Park","2016-01-15T08:40:00+00:00","
+							Attendance
+							23,207
+						","Attendance","23,207","15/16"
+"338","
+						Adelaide United
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R15","Coopers Stadium","11,125","
+						Hyundai A-League R15
+						Coopers Stadium
+					","Hyundai A-League R15","Coopers Stadium","2016-01-16T06:15:00+00:00","
+							Attendance
+							11,125
+						","Attendance","11,125","15/16"
+"339","
+						Western Sydney Wanderers FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R15","Pirtek Stadium","19,627","
+						Hyundai A-League R15
+						Pirtek Stadium
+					","Hyundai A-League R15","Pirtek Stadium","2016-01-16T08:30:00+00:00","
+							Attendance
+							19,627
+						","Attendance","19,627","15/16"
+"340","
+						Perth Glory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R15","HBF Park","7,021","
+						Hyundai A-League R15
+						HBF Park
+					","Hyundai A-League R15","HBF Park","2016-01-16T10:40:00+00:00","
+							Attendance
+							7,021
+						","Attendance","7,021","15/16"
+"341","
+						Newcastle Jets
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R15","McDonald Jones Stadium","7,595","
+						Hyundai A-League R15
+						McDonald Jones Stadium
+					","Hyundai A-League R15","McDonald Jones Stadium","2016-01-17T06:00:00+00:00","
+							Attendance
+							7,595
+						","Attendance","7,595","15/16"
+"342","
+						Brisbane Roar FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R16","Suncorp Stadium","12,923","
+						Hyundai A-League R16
+						Suncorp Stadium
+					","Hyundai A-League R16","Suncorp Stadium","2016-01-22T09:00:00+00:00","
+							Attendance
+							12,923
+						","Attendance","12,923","15/16"
+"343","
+						Central Coast Mariners
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R16","Central Coast Stadium","13,105","
+						Hyundai A-League R16
+						Central Coast Stadium
+					","Hyundai A-League R16","Central Coast Stadium","2016-01-23T08:30:00+00:00","
+							Attendance
+							13,105
+						","Attendance","13,105","15/16"
+"344","
+						Newcastle Jets
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R16","McDonald Jones Stadium","9,403","
+						Hyundai A-League R16
+						McDonald Jones Stadium
+					","Hyundai A-League R16","McDonald Jones Stadium","2016-01-24T06:00:00+00:00","
+							Attendance
+							9,403
+						","Attendance","9,403","15/16"
+"345","
+						Melbourne City FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R16","AAMI Park","10,825","
+						Hyundai A-League R16
+						AAMI Park
+					","Hyundai A-League R16","AAMI Park","2016-01-25T08:30:00+00:00","
+							Attendance
+							10,825
+						","Attendance","10,825","15/16"
+"346","
+						Melbourne Victory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R16","Marvel Stadium","30,493","
+						Hyundai A-League R16
+						Marvel Stadium
+					","Hyundai A-League R16","Marvel Stadium","2016-01-26T08:30:00+00:00","
+							Attendance
+							30,493
+						","Attendance","30,493","15/16"
+"347","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R17","Pirtek Stadium","14,820","
+						Hyundai A-League R17
+						Pirtek Stadium
+					","Hyundai A-League R17","Pirtek Stadium","2016-01-29T08:40:00+00:00","
+							Attendance
+							14,820
+						","Attendance","14,820","15/16"
+"348","
+						Wellington Phoenix
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R17","AMI Stadium, Christchurch","8,545","
+						Hyundai A-League R17
+						AMI Stadium, Christchurch
+					","Hyundai A-League R17","AMI Stadium, Christchurch","2016-01-30T06:15:00+00:00","
+							Attendance
+							8,545
+						","Attendance","8,545","15/16"
+"349","
+						Sydney FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R17","Allianz Stadium","12,548","
+						Hyundai A-League R17
+						Allianz Stadium
+					","Hyundai A-League R17","Allianz Stadium","2016-01-30T08:30:00+00:00","
+							Attendance
+							12,548
+						","Attendance","12,548","15/16"
+"350","
+						Perth Glory
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R17","HBF Park","10,501","
+						Hyundai A-League R17
+						HBF Park
+					","Hyundai A-League R17","HBF Park","2016-01-30T10:40:00+00:00","
+							Attendance
+							10,501
+						","Attendance","10,501","15/16"
+"351","
+						Adelaide United
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R17","Coopers Stadium","12,434","
+						Hyundai A-League R17
+						Coopers Stadium
+					","Hyundai A-League R17","Coopers Stadium","2016-01-31T06:00:00+00:00","
+							Attendance
+							12,434
+						","Attendance","12,434","15/16"
+"352","
+						Adelaide United
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R18","Coopers Stadium","11,785","
+						Hyundai A-League R18
+						Coopers Stadium
+					","Hyundai A-League R18","Coopers Stadium","2016-02-05T08:40:00+00:00","
+							Attendance
+							11,785
+						","Attendance","11,785","15/16"
+"353","
+						Brisbane Roar FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R18","Suncorp Stadium","11,788","
+						Hyundai A-League R18
+						Suncorp Stadium
+					","Hyundai A-League R18","Suncorp Stadium","2016-02-06T06:15:00+00:00","
+							Attendance
+							11,788
+						","Attendance","11,788","15/16"
+"354","
+						Melbourne Victory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R18","Marvel Stadium","25,445","
+						Hyundai A-League R18
+						Marvel Stadium
+					","Hyundai A-League R18","Marvel Stadium","2016-02-06T08:30:00+00:00","
+							Attendance
+							25,445
+						","Attendance","25,445","15/16"
+"355","
+						Wellington Phoenix
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R18","Westpac Stadium","7,135","
+						Hyundai A-League R18
+						Westpac Stadium
+					","Hyundai A-League R18","Westpac Stadium","2016-02-07T04:00:00+00:00","
+							Attendance
+							7,135
+						","Attendance","7,135","15/16"
+"356","
+						Newcastle Jets
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R18","McDonald Jones Stadium","7,266","
+						Hyundai A-League R18
+						McDonald Jones Stadium
+					","Hyundai A-League R18","McDonald Jones Stadium","2016-02-07T06:00:00+00:00","
+							Attendance
+							7,266
+						","Attendance","7,266","15/16"
+"357","
+						Brisbane Roar FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R19","Suncorp Stadium","9,382","
+						Hyundai A-League R19
+						Suncorp Stadium
+					","Hyundai A-League R19","Suncorp Stadium","2016-02-12T09:00:00+00:00","
+							Attendance
+							9,382
+						","Attendance","9,382","15/16"
+"358","
+						Sydney FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R19","Allianz Stadium","11,559","
+						Hyundai A-League R19
+						Allianz Stadium
+					","Hyundai A-League R19","Allianz Stadium","2016-02-13T06:15:00+00:00","
+							Attendance
+							11,559
+						","Attendance","11,559","15/16"
+"359","
+						Melbourne City FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R19","AAMI Park","25,738","
+						Hyundai A-League R19
+						AAMI Park
+					","Hyundai A-League R19","AAMI Park","2016-02-13T08:30:00+00:00","
+							Attendance
+							25,738
+						","Attendance","25,738","15/16"
+"360","
+						Central Coast Mariners
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R19","Central Coast Stadium","5,096","
+						Hyundai A-League R19
+						Central Coast Stadium
+					","Hyundai A-League R19","Central Coast Stadium","2016-02-14T08:00:00+00:00","
+							Attendance
+							5,096
+						","Attendance","5,096","15/16"
+"361","
+						Western Sydney Wanderers FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R19","Pirtek Stadium","12,589","
+						Hyundai A-League R19
+						Pirtek Stadium
+					","Hyundai A-League R19","Pirtek Stadium","2016-02-14T06:00:00+00:00","
+							Attendance
+							12,589
+						","Attendance","12,589","15/16"
+"362","
+						Melbourne Victory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R20","AAMI Park","18,924","
+						Hyundai A-League R20
+						AAMI Park
+					","Hyundai A-League R20","AAMI Park","2016-02-19T08:40:00+00:00","
+							Attendance
+							18,924
+						","Attendance","18,924","15/16"
+"363","
+						Newcastle Jets
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R20","McDonald Jones Stadium","7,120","
+						Hyundai A-League R20
+						McDonald Jones Stadium
+					","Hyundai A-League R20","McDonald Jones Stadium","2016-02-20T06:15:00+00:00","
+							Attendance
+							7,120
+						","Attendance","7,120","15/16"
+"364","
+						Sydney FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R20","Allianz Stadium","40,382","
+						Hyundai A-League R20
+						Allianz Stadium
+					","Hyundai A-League R20","Allianz Stadium","2016-02-20T08:30:00+00:00","
+							Attendance
+							40,382
+						","Attendance","40,382","15/16"
+"365","
+						Perth Glory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R20","HBF Park","12,156","
+						Hyundai A-League R20
+						HBF Park
+					","Hyundai A-League R20","HBF Park","2016-02-20T10:40:00+00:00","
+							Attendance
+							12,156
+						","Attendance","12,156","15/16"
+"366","
+						Melbourne City FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R20","AAMI Park","7,535","
+						Hyundai A-League R20
+						AAMI Park
+					","Hyundai A-League R20","AAMI Park","2016-02-21T06:00:00+00:00","
+							Attendance
+							7,535
+						","Attendance","7,535","15/16"
+"367","
+						Wellington Phoenix
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R21","Westpac Stadium","6,591","
+						Hyundai A-League R21
+						Westpac Stadium
+					","Hyundai A-League R21","Westpac Stadium","2016-02-26T06:30:00+00:00","
+							Attendance
+							6,591
+						","Attendance","6,591","15/16"
+"368","
+						Western Sydney Wanderers FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R21","Pirtek Stadium","12,639","
+						Hyundai A-League R21
+						Pirtek Stadium
+					","Hyundai A-League R21","Pirtek Stadium","2016-02-26T08:40:00+00:00","
+							Attendance
+							12,639
+						","Attendance","12,639","15/16"
+"369","
+						Adelaide United
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R21","Coopers Stadium","12,712","
+						Hyundai A-League R21
+						Coopers Stadium
+					","Hyundai A-League R21","Coopers Stadium","2016-02-27T06:15:00+00:00","
+							Attendance
+							12,712
+						","Attendance","12,712","15/16"
+"370","
+						Melbourne Victory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R21","AAMI Park","20,112","
+						Hyundai A-League R21
+						AAMI Park
+					","Hyundai A-League R21","AAMI Park","2016-02-27T08:30:00+00:00","
+							Attendance
+							20,112
+						","Attendance","20,112","15/16"
+"371","
+						Central Coast Mariners
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R21","Central Coast Stadium","7,528","
+						Hyundai A-League R21
+						Central Coast Stadium
+					","Hyundai A-League R21","Central Coast Stadium","2016-02-28T06:00:00+00:00","
+							Attendance
+							7,528
+						","Attendance","7,528","15/16"
+"372","
+						Brisbane Roar FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R22","Suncorp Stadium","13,157","
+						Hyundai A-League R22
+						Suncorp Stadium
+					","Hyundai A-League R22","Suncorp Stadium","2016-03-04T09:00:00+00:00","
+							Attendance
+							13,157
+						","Attendance","13,157","15/16"
+"373","
+						Wellington Phoenix
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R22","Westpac Stadium","6,595","
+						Hyundai A-League R22
+						Westpac Stadium
+					","Hyundai A-League R22","Westpac Stadium","2016-03-05T06:15:00+00:00","
+							Attendance
+							6,595
+						","Attendance","6,595","15/16"
+"374","
+						Melbourne City FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R22","AAMI Park","8,585","
+						Hyundai A-League R22
+						AAMI Park
+					","Hyundai A-League R22","AAMI Park","2016-03-05T08:30:00+00:00","
+							Attendance
+							8,585
+						","Attendance","8,585","15/16"
+"375","
+						Central Coast Mariners
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R22","Central Coast Stadium","5,032","
+						Hyundai A-League R22
+						Central Coast Stadium
+					","Hyundai A-League R22","Central Coast Stadium","2016-03-06T06:00:00+00:00","
+							Attendance
+							5,032
+						","Attendance","5,032","15/16"
+"376","
+						Perth Glory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R22","HBF Park","11,260","
+						Hyundai A-League R22
+						HBF Park
+					","Hyundai A-League R22","HBF Park","2016-03-07T09:00:00+00:00","
+							Attendance
+							11,260
+						","Attendance","11,260","15/16"
+"377","
+						Adelaide United
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R23","Coopers Stadium","14,274","
+						Hyundai A-League R23
+						Coopers Stadium
+					","Hyundai A-League R23","Coopers Stadium","2016-03-11T08:40:00+00:00","
+							Attendance
+							14,274
+						","Attendance","14,274","15/16"
+"378","
+						Sydney FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R23","Allianz Stadium","10,235","
+						Hyundai A-League R23
+						Allianz Stadium
+					","Hyundai A-League R23","Allianz Stadium","2016-03-12T06:15:00+00:00","
+							Attendance
+							10,235
+						","Attendance","10,235","15/16"
+"379","
+						Brisbane Roar FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R23","Suncorp Stadium","15,892","
+						Hyundai A-League R23
+						Suncorp Stadium
+					","Hyundai A-League R23","Suncorp Stadium","2016-03-12T08:30:00+00:00","
+							Attendance
+							15,892
+						","Attendance","15,892","15/16"
+"380","
+						Perth Glory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R23","HBF Park","11,127","
+						Hyundai A-League R23
+						HBF Park
+					","Hyundai A-League R23","HBF Park","2016-03-12T10:40:00+00:00","
+							Attendance
+							11,127
+						","Attendance","11,127","15/16"
+"381","
+						Newcastle Jets
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R23","McDonald Jones Stadium","12,153","
+						Hyundai A-League R23
+						McDonald Jones Stadium
+					","Hyundai A-League R23","McDonald Jones Stadium","2016-03-13T06:00:00+00:00","
+							Attendance
+							12,153
+						","Attendance","12,153","15/16"
+"382","
+						Melbourne City FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R24","AAMI Park","7,658","
+						Hyundai A-League R24
+						AAMI Park
+					","Hyundai A-League R24","AAMI Park","2016-03-18T08:40:00+00:00","
+							Attendance
+							7,658
+						","Attendance","7,658","15/16"
+"383","
+						Central Coast Mariners
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R24","Central Coast Stadium","6,383","
+						Hyundai A-League R24
+						Central Coast Stadium
+					","Hyundai A-League R24","Central Coast Stadium","2016-03-19T06:15:00+00:00","
+							Attendance
+							6,383
+						","Attendance","6,383","15/16"
+"384","
+						Western Sydney Wanderers FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R24","Pirtek Stadium","15,208","
+						Hyundai A-League R24
+						Pirtek Stadium
+					","Hyundai A-League R24","Pirtek Stadium","2016-03-19T08:30:00+00:00","
+							Attendance
+							15,208
+						","Attendance","15,208","15/16"
+"385","
+						Wellington Phoenix
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R24","Westpac Stadium","5,844","
+						Hyundai A-League R24
+						Westpac Stadium
+					","Hyundai A-League R24","Westpac Stadium","2016-03-20T04:00:00+00:00","
+							Attendance
+							5,844
+						","Attendance","5,844","15/16"
+"386","
+						Melbourne Victory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R24","AAMI Park","14,383","
+						Hyundai A-League R24
+						AAMI Park
+					","Hyundai A-League R24","AAMI Park","2016-03-20T06:00:00+00:00","
+							Attendance
+							14,383
+						","Attendance","14,383","15/16"
+"387","
+						Melbourne Victory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R25","AAMI Park","20,097","
+						Hyundai A-League R25
+						AAMI Park
+					","Hyundai A-League R25","AAMI Park","2016-03-25T08:40:00+00:00","
+							Attendance
+							20,097
+						","Attendance","20,097","15/16"
+"388","
+						Newcastle Jets
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R25","McDonald Jones Stadium","7,569","
+						Hyundai A-League R25
+						McDonald Jones Stadium
+					","Hyundai A-League R25","McDonald Jones Stadium","2016-03-26T06:15:00+00:00","
+							Attendance
+							7,569
+						","Attendance","7,569","15/16"
+"389","
+						Brisbane Roar FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R25","Suncorp Stadium","14,897","
+						Hyundai A-League R25
+						Suncorp Stadium
+					","Hyundai A-League R25","Suncorp Stadium","2016-03-26T08:30:00+00:00","
+							Attendance
+							14,897
+						","Attendance","14,897","15/16"
+"390","
+						Adelaide United
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R25","Coopers Stadium","10,269","
+						Hyundai A-League R25
+						Coopers Stadium
+					","Hyundai A-League R25","Coopers Stadium","2016-03-27T06:00:00+00:00","
+							Attendance
+							10,269
+						","Attendance","10,269","15/16"
+"391","
+						Melbourne City FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R25","AAMI Park","9,895","
+						Hyundai A-League R25
+						AAMI Park
+					","Hyundai A-League R25","AAMI Park","2016-03-28T08:30:00+00:00","
+							Attendance
+							9,895
+						","Attendance","9,895","15/16"
+"392","
+						Western Sydney Wanderers FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R26","Pirtek Stadium","14,855","
+						Hyundai A-League R26
+						Pirtek Stadium
+					","Hyundai A-League R26","Pirtek Stadium","2016-04-01T08:40:00+00:00","
+							Attendance
+							14,855
+						","Attendance","14,855","15/16"
+"393","
+						Wellington Phoenix
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R26","Westpac Stadium","5,103","
+						Hyundai A-League R26
+						Westpac Stadium
+					","Hyundai A-League R26","Westpac Stadium","2016-04-02T06:15:00+00:00","
+							Attendance
+							5,103
+						","Attendance","5,103","15/16"
+"394","
+						Sydney FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R26","Allianz Stadium","8,981","
+						Hyundai A-League R26
+						Allianz Stadium
+					","Hyundai A-League R26","Allianz Stadium","2016-04-02T08:30:00+00:00","
+							Attendance
+							8,981
+						","Attendance","8,981","15/16"
+"395","
+						Brisbane Roar FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R26","Suncorp Stadium","14,825","
+						Hyundai A-League R26
+						Suncorp Stadium
+					","Hyundai A-League R26","Suncorp Stadium","2016-04-03T07:00:00+00:00","
+							Attendance
+							14,825
+						","Attendance","14,825","15/16"
+"396","
+						Perth Glory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R26","HBF Park","14,504","
+						Hyundai A-League R26
+						HBF Park
+					","Hyundai A-League R26","HBF Park","2016-04-03T09:00:00+00:00","
+							Attendance
+							14,504
+						","Attendance","14,504","15/16"
+"397","
+						Melbourne City FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R27","AAMI Park","11,454","
+						Hyundai A-League R27
+						AAMI Park
+					","Hyundai A-League R27","AAMI Park","2016-04-08T09:40:00+00:00","
+							Attendance
+							11,454
+						","Attendance","11,454","15/16"
+"398","
+						Central Coast Mariners
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R27","Central Coast Stadium","7,355","
+						Hyundai A-League R27
+						Central Coast Stadium
+					","Hyundai A-League R27","Central Coast Stadium","2016-04-09T07:15:00+00:00","
+							Attendance
+							7,355
+						","Attendance","7,355","15/16"
+"399","
+						Melbourne Victory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R27","AAMI Park","20,012","
+						Hyundai A-League R27
+						AAMI Park
+					","Hyundai A-League R27","AAMI Park","2016-04-09T09:30:00+00:00","
+							Attendance
+							20,012
+						","Attendance","20,012","15/16"
+"400","
+						Wellington Phoenix
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R27","Westpac Stadium","10,143","
+						Hyundai A-League R27
+						Westpac Stadium
+					","Hyundai A-League R27","Westpac Stadium","2016-04-10T05:00:00+00:00","
+							Attendance
+							10,143
+						","Attendance","10,143","15/16"
+"401","
+						Sydney FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R27","Allianz Stadium","8,717","
+						Hyundai A-League R27
+						Allianz Stadium
+					","Hyundai A-League R27","Allianz Stadium","2016-04-10T07:00:00+00:00","
+							Attendance
+							8,717
+						","Attendance","8,717","15/16"
+"402","
+						Melbourne Victory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R1","Marvel Stadium","30,083","
+						Hyundai A-League R1
+						Marvel Stadium
+					","Hyundai A-League R1","Marvel Stadium","2014-10-10T08:40:00+00:00","
+							Attendance
+							30,083
+						","Attendance","30,083","14/15"
+"403","
+						Central Coast Mariners
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R1","Central Coast Stadium","10,443","
+						Hyundai A-League R1
+						Central Coast Stadium
+					","Hyundai A-League R1","Central Coast Stadium","2014-10-11T06:00:00+00:00","
+							Attendance
+							10,443
+						","Attendance","10,443","14/15"
+"404","
+						Sydney FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R1","Allianz Stadium","25,525","
+						Hyundai A-League R1
+						Allianz Stadium
+					","Hyundai A-League R1","Allianz Stadium","2014-10-11T08:30:00+00:00","
+							Attendance
+							25,525
+						","Attendance","25,525","14/15"
+"405","
+						Wellington Phoenix
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R1","Westpac Stadium","7,767","
+						Hyundai A-League R1
+						Westpac Stadium
+					","Hyundai A-League R1","Westpac Stadium","2014-10-12T04:00:00+00:00","
+							Attendance
+							7,767
+						","Attendance","7,767","14/15"
+"406","
+						Brisbane Roar FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R1","Suncorp Stadium","16,195","
+						Hyundai A-League R1
+						Suncorp Stadium
+					","Hyundai A-League R1","Suncorp Stadium","2014-10-12T06:00:00+00:00","
+							Attendance
+							16,195
+						","Attendance","16,195","14/15"
+"407","
+						Adelaide United
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R2","Adelaide Oval","33,126","
+						Hyundai A-League R2
+						Adelaide Oval
+					","Hyundai A-League R2","Adelaide Oval","2014-10-17T08:40:00+00:00","
+							Attendance
+							33,126
+						","Attendance","33,126","14/15"
+"408","
+						Central Coast Mariners
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R2","Central Coast Stadium","7,237","
+						Hyundai A-League R2
+						Central Coast Stadium
+					","Hyundai A-League R2","Central Coast Stadium","2014-10-18T06:00:00+00:00","
+							Attendance
+							7,237
+						","Attendance","7,237","14/15"
+"409","
+						Sydney FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R2","Allianz Stadium","41,213","
+						Hyundai A-League R2
+						Allianz Stadium
+					","Hyundai A-League R2","Allianz Stadium","2014-10-18T08:30:00+00:00","
+							Attendance
+							41,213
+						","Attendance","41,213","14/15"
+"410","
+						Melbourne City FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R2","AAMI Park","15,717","
+						Hyundai A-League R2
+						AAMI Park
+					","Hyundai A-League R2","AAMI Park","2014-10-19T04:00:00+00:00","
+							Attendance
+							15,717
+						","Attendance","15,717","14/15"
+"411","
+						Perth Glory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R2","HBF Park","8,789","
+						Hyundai A-League R2
+						HBF Park
+					","Hyundai A-League R2","HBF Park","2014-10-19T06:00:00+00:00","
+							Attendance
+							8,789
+						","Attendance","8,789","14/15"
+"412","
+						Brisbane Roar FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R3","Suncorp Stadium","14,141","
+						Hyundai A-League R3
+						Suncorp Stadium
+					","Hyundai A-League R3","Suncorp Stadium","2014-10-24T09:00:00+00:00","
+							Attendance
+							14,141
+						","Attendance","14,141","14/15"
+"413","
+						Western Sydney Wanderers FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R3","Pirtek Stadium","14,691","
+						Hyundai A-League R3
+						Pirtek Stadium
+					","Hyundai A-League R3","Pirtek Stadium","2014-11-19T08:30:00+00:00","
+							Attendance
+							14,691
+						","Attendance","14,691","14/15"
+"414","
+						Melbourne Victory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R3","Marvel Stadium","43,729","
+						Hyundai A-League R3
+						Marvel Stadium
+					","Hyundai A-League R3","Marvel Stadium","2014-10-25T08:45:00+00:00","
+							Attendance
+							43,729
+						","Attendance","43,729","14/15"
+"415","
+						Wellington Phoenix
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R3","Westpac Stadium","7,802","
+						Hyundai A-League R3
+						Westpac Stadium
+					","Hyundai A-League R3","Westpac Stadium","2014-10-26T04:00:00+00:00","
+							Attendance
+							7,802
+						","Attendance","7,802","14/15"
+"416","
+						Adelaide United
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R3","Coopers Stadium","11,473","
+						Hyundai A-League R3
+						Coopers Stadium
+					","Hyundai A-League R3","Coopers Stadium","2014-10-26T06:00:00+00:00","
+							Attendance
+							11,473
+						","Attendance","11,473","14/15"
+"417","
+						Melbourne City FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R4","AAMI Park","13,083","
+						Hyundai A-League R4
+						AAMI Park
+					","Hyundai A-League R4","AAMI Park","2014-10-31T08:40:00+00:00","
+							Attendance
+							13,083
+						","Attendance","13,083","14/15"
+"418","
+						Perth Glory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R4","HBF Park","8,624","
+						Hyundai A-League R4
+						HBF Park
+					","Hyundai A-League R4","HBF Park","2014-11-01T08:30:00+00:00","
+							Attendance
+							8,624
+						","Attendance","8,624","14/15"
+"419","
+						Western Sydney Wanderers FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R4","Pirtek Stadium","10,252","
+						Hyundai A-League R4
+						Pirtek Stadium
+					","Hyundai A-League R4","Pirtek Stadium","2014-12-03T08:30:00+00:00","
+							Attendance
+							10,252
+						","Attendance","10,252","14/15"
+"420","
+						Sydney FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R4","Allianz Stadium","17,761","
+						Hyundai A-League R4
+						Allianz Stadium
+					","Hyundai A-League R4","Allianz Stadium","2014-11-02T06:00:00+00:00","
+							Attendance
+							17,761
+						","Attendance","17,761","14/15"
+"421","
+						Melbourne Victory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R4","AAMI Park","23,827","
+						Hyundai A-League R4
+						AAMI Park
+					","Hyundai A-League R4","AAMI Park","2014-11-03T08:30:00+00:00","
+							Attendance
+							23,827
+						","Attendance","23,827","14/15"
+"422","
+						Wellington Phoenix
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R5","Westpac Stadium","7,008","
+						Hyundai A-League R5
+						Westpac Stadium
+					","Hyundai A-League R5","Westpac Stadium","2014-11-07T06:30:00+00:00","
+							Attendance
+							7,008
+						","Attendance","7,008","14/15"
+"423","
+						Adelaide United
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R5","Coopers Stadium","16,015","
+						Hyundai A-League R5
+						Coopers Stadium
+					","Hyundai A-League R5","Coopers Stadium","2014-11-07T08:45:00+00:00","
+							Attendance
+							16,015
+						","Attendance","16,015","14/15"
+"424","
+						Newcastle Jets
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R5","McDonald Jones Stadium","11,884","
+						Hyundai A-League R5
+						McDonald Jones Stadium
+					","Hyundai A-League R5","McDonald Jones Stadium","2014-11-08T06:00:00+00:00","
+							Attendance
+							11,884
+						","Attendance","11,884","14/15"
+"425","
+						Brisbane Roar FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R5","Suncorp Stadium","17,131","
+						Hyundai A-League R5
+						Suncorp Stadium
+					","Hyundai A-League R5","Suncorp Stadium","2014-11-08T08:30:00+00:00","
+							Attendance
+							17,131
+						","Attendance","17,131","14/15"
+"426","
+						Central Coast Mariners
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R5","Central Coast Stadium","6,399","
+						Hyundai A-League R5
+						Central Coast Stadium
+					","Hyundai A-League R5","Central Coast Stadium","2014-11-09T06:00:00+00:00","
+							Attendance
+							6,399
+						","Attendance","6,399","14/15"
+"427","
+						Newcastle Jets
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R6","McDonald Jones Stadium","10,216","
+						Hyundai A-League R6
+						McDonald Jones Stadium
+					","Hyundai A-League R6","McDonald Jones Stadium","2014-11-14T08:40:00+00:00","
+							Attendance
+							10,216
+						","Attendance","10,216","14/15"
+"428","
+						Adelaide United
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R6","Coopers Stadium","9,726","
+						Hyundai A-League R6
+						Coopers Stadium
+					","Hyundai A-League R6","Coopers Stadium","2014-11-15T06:00:00+00:00","
+							Attendance
+							9,726
+						","Attendance","9,726","14/15"
+"429","
+						Sydney FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R6","Allianz Stadium","21,242","
+						Hyundai A-League R6
+						Allianz Stadium
+					","Hyundai A-League R6","Allianz Stadium","2014-11-15T08:30:00+00:00","
+							Attendance
+							21,242
+						","Attendance","21,242","14/15"
+"430","
+						Perth Glory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R6","HBF Park","12,166","
+						Hyundai A-League R6
+						HBF Park
+					","Hyundai A-League R6","HBF Park","2014-11-15T10:45:00+00:00","
+							Attendance
+							12,166
+						","Attendance","12,166","14/15"
+"431","
+						Melbourne City FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R6","AAMI Park","9,402","
+						Hyundai A-League R6
+						AAMI Park
+					","Hyundai A-League R6","AAMI Park","2014-11-16T06:00:00+00:00","
+							Attendance
+							9,402
+						","Attendance","9,402","14/15"
+"432","
+						Melbourne Victory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R7","Marvel Stadium","23,740","
+						Hyundai A-League R7
+						Marvel Stadium
+					","Hyundai A-League R7","Marvel Stadium","2014-11-21T08:40:00+00:00","
+							Attendance
+							23,740
+						","Attendance","23,740","14/15"
+"433","
+						Western Sydney Wanderers FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R7","Pirtek Stadium","14,136","
+						Hyundai A-League R7
+						Pirtek Stadium
+					","Hyundai A-League R7","Pirtek Stadium","2014-11-22T06:00:00+00:00","
+							Attendance
+							14,136
+						","Attendance","14,136","14/15"
+"434","
+						Melbourne City FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R7","AAMI Park","9,474","
+						Hyundai A-League R7
+						AAMI Park
+					","Hyundai A-League R7","AAMI Park","2014-11-22T08:30:00+00:00","
+							Attendance
+							9,474
+						","Attendance","9,474","14/15"
+"435","
+						Perth Glory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R7","HBF Park","9,223","
+						Hyundai A-League R7
+						HBF Park
+					","Hyundai A-League R7","HBF Park","2014-11-21T10:45:00+00:00","
+							Attendance
+							9,223
+						","Attendance","9,223","14/15"
+"436","
+						Central Coast Mariners
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R7","Central Coast Stadium","6,404","
+						Hyundai A-League R7
+						Central Coast Stadium
+					","Hyundai A-League R7","Central Coast Stadium","2014-11-23T06:00:00+00:00","
+							Attendance
+							6,404
+						","Attendance","6,404","14/15"
+"437","
+						Melbourne Victory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R8","AAMI Park","22,334","
+						Hyundai A-League R8
+						AAMI Park
+					","Hyundai A-League R8","AAMI Park","2014-11-28T08:40:00+00:00","
+							Attendance
+							22,334
+						","Attendance","22,334","14/15"
+"438","
+						Brisbane Roar FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R8","Suncorp Stadium","13,043","
+						Hyundai A-League R8
+						Suncorp Stadium
+					","Hyundai A-League R8","Suncorp Stadium","2014-11-29T06:00:00+00:00","
+							Attendance
+							13,043
+						","Attendance","13,043","14/15"
+"439","
+						Western Sydney Wanderers FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R8","Pirtek Stadium","19,138","
+						Hyundai A-League R8
+						Pirtek Stadium
+					","Hyundai A-League R8","Pirtek Stadium","2014-11-29T08:30:00+00:00","
+							Attendance
+							19,138
+						","Attendance","19,138","14/15"
+"440","
+						Wellington Phoenix
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R8","Westpac Stadium","7,410","
+						Hyundai A-League R8
+						Westpac Stadium
+					","Hyundai A-League R8","Westpac Stadium","2014-11-30T04:00:00+00:00","
+							Attendance
+							7,410
+						","Attendance","7,410","14/15"
+"441","
+						Newcastle Jets
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R8","McDonald Jones Stadium","11,031","
+						Hyundai A-League R8
+						McDonald Jones Stadium
+					","Hyundai A-League R8","McDonald Jones Stadium","2014-11-30T06:00:00+00:00","
+							Attendance
+							11,031
+						","Attendance","11,031","14/15"
+"442","
+						Brisbane Roar FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R27","Suncorp Stadium","8,693","
+						Hyundai A-League R27
+						Suncorp Stadium
+					","Hyundai A-League R27","Suncorp Stadium","2015-04-24T09:40:00+00:00","
+							Attendance
+							8,693
+						","Attendance","8,693","14/15"
+"443","
+						Sydney FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R9","Allianz Stadium","11,280","
+						Hyundai A-League R9
+						Allianz Stadium
+					","Hyundai A-League R9","Allianz Stadium","2014-12-04T08:30:00+00:00","
+							Attendance
+							11,280
+						","Attendance","11,280","14/15"
+"444","
+						Central Coast Mariners
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R9","North Sydney Oval","7,098","
+						Hyundai A-League R9
+						North Sydney Oval
+					","Hyundai A-League R9","North Sydney Oval","2014-12-05T08:40:00+00:00","
+							Attendance
+							7,098
+						","Attendance","7,098","14/15"
+"445","
+						Newcastle Jets
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R9","McDonald Jones Stadium","9,152","
+						Hyundai A-League R9
+						McDonald Jones Stadium
+					","Hyundai A-League R9","McDonald Jones Stadium","2014-12-06T06:00:00+00:00","
+							Attendance
+							9,152
+						","Attendance","9,152","14/15"
+"446","
+						Adelaide United
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R9","Coopers Stadium","12,122","
+						Hyundai A-League R9
+						Coopers Stadium
+					","Hyundai A-League R9","Coopers Stadium","2014-12-06T08:30:00+00:00","
+							Attendance
+							12,122
+						","Attendance","12,122","14/15"
+"447","
+						Melbourne City FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R9","AAMI Park","7,721","
+						Hyundai A-League R9
+						AAMI Park
+					","Hyundai A-League R9","AAMI Park","2014-12-07T06:00:00+00:00","
+							Attendance
+							7,721
+						","Attendance","7,721","14/15"
+"448","
+						Western Sydney Wanderers FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R27","Pirtek Stadium","8,852","
+						Hyundai A-League R27
+						Pirtek Stadium
+					","Hyundai A-League R27","Pirtek Stadium","2015-04-25T07:00:00+00:00","
+							Attendance
+							8,852
+						","Attendance","8,852","14/15"
+"449","
+						Adelaide United
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R10","Coopers Stadium","11,241","
+						Hyundai A-League R10
+						Coopers Stadium
+					","Hyundai A-League R10","Coopers Stadium","2014-12-12T08:40:00+00:00","
+							Attendance
+							11,241
+						","Attendance","11,241","14/15"
+"450","
+						Perth Glory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R10","HBF Park","9,233","
+						Hyundai A-League R10
+						HBF Park
+					","Hyundai A-League R10","HBF Park","2014-12-12T10:45:00+00:00","
+							Attendance
+							9,233
+						","Attendance","9,233","14/15"
+"451","
+						Wellington Phoenix
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R10","Eden Park","11,051","
+						Hyundai A-League R10
+						Eden Park
+					","Hyundai A-League R10","Eden Park","2014-12-13T04:00:00+00:00","
+							Attendance
+							11,051
+						","Attendance","11,051","14/15"
+"452","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R10","Pirtek Stadium","7,239","
+						Hyundai A-League R10
+						Pirtek Stadium
+					","Hyundai A-League R10","Pirtek Stadium","2015-03-11T08:30:00+00:00","
+							Attendance
+							7,239
+						","Attendance","7,239","14/15"
+"453","
+						Melbourne Victory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R10","Marvel Stadium","25,203","
+						Hyundai A-League R10
+						Marvel Stadium
+					","Hyundai A-League R10","Marvel Stadium","2014-12-13T08:30:00+00:00","
+							Attendance
+							25,203
+						","Attendance","25,203","14/15"
+"454","
+						Brisbane Roar FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R11","Suncorp Stadium","6,813","
+						Hyundai A-League R11
+						Suncorp Stadium
+					","Hyundai A-League R11","Suncorp Stadium","2015-03-25T09:00:00+00:00","
+							Attendance
+							6,813
+						","Attendance","6,813","14/15"
+"455","
+						Newcastle Jets
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R11","McDonald Jones Stadium","10,407","
+						Hyundai A-League R11
+						McDonald Jones Stadium
+					","Hyundai A-League R11","McDonald Jones Stadium","2014-12-19T08:40:00+00:00","
+							Attendance
+							10,407
+						","Attendance","10,407","14/15"
+"456","
+						Melbourne City FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R11","AAMI Park","26,372","
+						Hyundai A-League R11
+						AAMI Park
+					","Hyundai A-League R11","AAMI Park","2014-12-20T08:30:00+00:00","
+							Attendance
+							26,372
+						","Attendance","26,372","14/15"
+"457","
+						Perth Glory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R11","HBF Park","9,660","
+						Hyundai A-League R11
+						HBF Park
+					","Hyundai A-League R11","HBF Park","2014-12-20T10:30:00+00:00","
+							Attendance
+							9,660
+						","Attendance","9,660","14/15"
+"458","
+						Sydney FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R11","Allianz Stadium","14,672","
+						Hyundai A-League R11
+						Allianz Stadium
+					","Hyundai A-League R11","Allianz Stadium","2014-12-21T06:00:00+00:00","
+							Attendance
+							14,672
+						","Attendance","14,672","14/15"
+"459","
+						Melbourne City FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R12","AAMI Park","9,550","
+						Hyundai A-League R12
+						AAMI Park
+					","Hyundai A-League R12","AAMI Park","2014-12-26T06:30:00+00:00","
+							Attendance
+							9,550
+						","Attendance","9,550","14/15"
+"460","
+						Sydney FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R12","Allianz Stadium","14,214","
+						Hyundai A-League R12
+						Allianz Stadium
+					","Hyundai A-League R12","Allianz Stadium","2014-12-26T08:45:00+00:00","
+							Attendance
+							14,214
+						","Attendance","14,214","14/15"
+"461","
+						Central Coast Mariners
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R12","Central Coast Stadium","9,932","
+						Hyundai A-League R12
+						Central Coast Stadium
+					","Hyundai A-League R12","Central Coast Stadium","2014-12-27T06:00:00+00:00","
+							Attendance
+							9,932
+						","Attendance","9,932","14/15"
+"462","
+						Melbourne Victory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R12","AAMI Park","20,801","
+						Hyundai A-League R12
+						AAMI Park
+					","Hyundai A-League R12","AAMI Park","2014-12-27T08:30:00+00:00","
+							Attendance
+							20,801
+						","Attendance","20,801","14/15"
+"463","
+						Wellington Phoenix
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R12","Westpac Stadium","8,606","
+						Hyundai A-League R12
+						Westpac Stadium
+					","Hyundai A-League R12","Westpac Stadium","2014-12-28T06:00:00+00:00","
+							Attendance
+							8,606
+						","Attendance","8,606","14/15"
+"464","
+						Newcastle Jets
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R13","McDonald Jones Stadium","9,935","
+						Hyundai A-League R13
+						McDonald Jones Stadium
+					","Hyundai A-League R13","McDonald Jones Stadium","2014-12-30T06:00:00+00:00","
+							Attendance
+							9,935
+						","Attendance","9,935","14/15"
+"465","
+						Brisbane Roar FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R13","Suncorp Stadium","15,765","
+						Hyundai A-League R13
+						Suncorp Stadium
+					","Hyundai A-League R13","Suncorp Stadium","2014-12-30T09:00:00+00:00","
+							Attendance
+							15,765
+						","Attendance","15,765","14/15"
+"466","
+						Adelaide United
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R13","Coopers Stadium","10,060","
+						Hyundai A-League R13
+						Coopers Stadium
+					","Hyundai A-League R13","Coopers Stadium","2014-12-31T08:30:00+00:00","
+							Attendance
+							10,060
+						","Attendance","10,060","14/15"
+"467","
+						Western Sydney Wanderers FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R13","Pirtek Stadium","14,137","
+						Hyundai A-League R13
+						Pirtek Stadium
+					","Hyundai A-League R13","Pirtek Stadium","2015-01-01T08:30:00+00:00","
+							Attendance
+							14,137
+						","Attendance","14,137","14/15"
+"468","
+						Melbourne Victory
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R13","GMHBA Stadium","21,289","
+						Hyundai A-League R13
+						GMHBA Stadium
+					","Hyundai A-League R13","GMHBA Stadium","2015-01-02T08:40:00+00:00","
+							Attendance
+							21,289
+						","Attendance","21,289","14/15"
+"469","
+						Sydney FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R14","WIN Stadium","11,733","
+						Hyundai A-League R14
+						WIN Stadium
+					","Hyundai A-League R14","WIN Stadium","2015-01-03T08:30:00+00:00","
+							Attendance
+							11,733
+						","Attendance","11,733","14/15"
+"470","
+						Wellington Phoenix
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R14","Westpac Stadium","10,267","
+						Hyundai A-League R14
+						Westpac Stadium
+					","Hyundai A-League R14","Westpac Stadium","2015-01-04T04:00:00+00:00","
+							Attendance
+							10,267
+						","Attendance","10,267","14/15"
+"471","
+						Central Coast Mariners
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R14","Central Coast Stadium","7,409","
+						Hyundai A-League R14
+						Central Coast Stadium
+					","Hyundai A-League R14","Central Coast Stadium","2015-01-04T06:00:00+00:00","
+							Attendance
+							7,409
+						","Attendance","7,409","14/15"
+"472","
+						Perth Glory
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R14","HBF Park","9,699","
+						Hyundai A-League R14
+						HBF Park
+					","Hyundai A-League R14","HBF Park","2015-01-05T09:30:00+00:00","
+							Attendance
+							9,699
+						","Attendance","9,699","14/15"
+"473","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R14","Pirtek Stadium","14,619","
+						Hyundai A-League R14
+						Pirtek Stadium
+					","Hyundai A-League R14","Pirtek Stadium","2015-01-06T08:30:00+00:00","
+							Attendance
+							14,619
+						","Attendance","14,619","14/15"
+"474","
+						Wellington Phoenix
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R27","Westpac Stadium","13,248","
+						Hyundai A-League R27
+						Westpac Stadium
+					","Hyundai A-League R27","Westpac Stadium","2015-04-26T05:00:00+00:00","
+							Attendance
+							13,248
+						","Attendance","13,248","14/15"
+"475","
+						Adelaide United
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R15","Coopers Stadium","10,960","
+						Hyundai A-League R15
+						Coopers Stadium
+					","Hyundai A-League R15","Coopers Stadium","2015-01-24T06:00:00+00:00","
+							Attendance
+							10,960
+						","Attendance","10,960","14/15"
+"476","
+						Central Coast Mariners
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R15","Central Coast Stadium","12,102","
+						Hyundai A-League R15
+						Central Coast Stadium
+					","Hyundai A-League R15","Central Coast Stadium","2015-01-24T08:30:00+00:00","
+							Attendance
+							12,102
+						","Attendance","12,102","14/15"
+"477","
+						Perth Glory
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R15","HBF Park","12,271","
+						Hyundai A-League R15
+						HBF Park
+					","Hyundai A-League R15","HBF Park","2015-01-25T09:00:00+00:00","
+							Attendance
+							12,271
+						","Attendance","12,271","14/15"
+"478","
+						Brisbane Roar FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R15","Suncorp Stadium","9,263","
+						Hyundai A-League R15
+						Suncorp Stadium
+					","Hyundai A-League R15","Suncorp Stadium","2015-02-02T09:00:00+00:00","
+							Attendance
+							9,263
+						","Attendance","9,263","14/15"
+"479","
+						Melbourne City FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R15","AAMI Park","7,561","
+						Hyundai A-League R15
+						AAMI Park
+					","Hyundai A-League R15","AAMI Park","2015-02-01T06:00:00+00:00","
+							Attendance
+							7,561
+						","Attendance","7,561","14/15"
+"480","
+						Melbourne Victory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R27","AAMI Park","22,285","
+						Hyundai A-League R27
+						AAMI Park
+					","Hyundai A-League R27","AAMI Park","2015-04-26T07:00:00+00:00","
+							Attendance
+							22,285
+						","Attendance","22,285","14/15"
+"481","
+						Newcastle Jets
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R16","McDonald Jones Stadium","6,944","
+						Hyundai A-League R16
+						McDonald Jones Stadium
+					","Hyundai A-League R16","McDonald Jones Stadium","2015-02-06T08:40:00+00:00","
+							Attendance
+							6,944
+						","Attendance","6,944","14/15"
+"482","
+						Central Coast Mariners
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R16","Central Coast Stadium","4,508","
+						Hyundai A-League R16
+						Central Coast Stadium
+					","Hyundai A-League R16","Central Coast Stadium","2015-02-07T06:00:00+00:00","
+							Attendance
+							4,508
+						","Attendance","4,508","14/15"
+"483","
+						Melbourne Victory
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R16","Marvel Stadium","40,042","
+						Hyundai A-League R16
+						Marvel Stadium
+					","Hyundai A-League R16","Marvel Stadium","2015-02-07T08:30:00+00:00","
+							Attendance
+							40,042
+						","Attendance","40,042","14/15"
+"484","
+						Perth Glory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R16","HBF Park","11,637","
+						Hyundai A-League R16
+						HBF Park
+					","Hyundai A-League R16","HBF Park","2015-02-07T10:30:00+00:00","
+							Attendance
+							11,637
+						","Attendance","11,637","14/15"
+"485","
+						Western Sydney Wanderers FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R16","Panthers Stadium","12,663","
+						Hyundai A-League R16
+						Panthers Stadium
+					","Hyundai A-League R16","Panthers Stadium","2015-02-08T06:00:00+00:00","
+							Attendance
+							12,663
+						","Attendance","12,663","14/15"
+"486","
+						Central Coast Mariners
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R17","Central Coast Stadium","6,021","
+						Hyundai A-League R17
+						Central Coast Stadium
+					","Hyundai A-League R17","Central Coast Stadium","2015-02-13T08:40:00+00:00","
+							Attendance
+							6,021
+						","Attendance","6,021","14/15"
+"487","
+						Wellington Phoenix
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R17","Hutt Recreational Ground","9,232","
+						Hyundai A-League R17
+						Hutt Recreational Ground
+					","Hyundai A-League R17","Hutt Recreational Ground","2015-02-14T04:00:00+00:00","
+							Attendance
+							9,232
+						","Attendance","9,232","14/15"
+"488","
+						Newcastle Jets
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R17","McDonald Jones Stadium","11,019","
+						Hyundai A-League R17
+						McDonald Jones Stadium
+					","Hyundai A-League R17","McDonald Jones Stadium","2015-02-14T06:00:00+00:00","
+							Attendance
+							11,019
+						","Attendance","11,019","14/15"
+"489","
+						Sydney FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R17","Allianz Stadium","17,356","
+						Hyundai A-League R17
+						Allianz Stadium
+					","Hyundai A-League R17","Allianz Stadium","2015-02-14T08:30:00+00:00","
+							Attendance
+							17,356
+						","Attendance","17,356","14/15"
+"490","
+						Adelaide United
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R17","Coopers Stadium","9,711","
+						Hyundai A-League R17
+						Coopers Stadium
+					","Hyundai A-League R17","Coopers Stadium","2015-02-15T06:00:00+00:00","
+							Attendance
+							9,711
+						","Attendance","9,711","14/15"
+"491","
+						Brisbane Roar FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R18","Suncorp Stadium","10,642","
+						Hyundai A-League R18
+						Suncorp Stadium
+					","Hyundai A-League R18","Suncorp Stadium","2015-04-15T09:40:00+00:00","
+							Attendance
+							10,642
+						","Attendance","10,642","14/15"
+"492","
+						Sydney FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R18","Allianz Stadium","14,239","
+						Hyundai A-League R18
+						Allianz Stadium
+					","Hyundai A-League R18","Allianz Stadium","2015-02-21T06:00:00+00:00","
+							Attendance
+							14,239
+						","Attendance","14,239","14/15"
+"493","
+						Adelaide United
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R18","Coopers Stadium","9,212","
+						Hyundai A-League R18
+						Coopers Stadium
+					","Hyundai A-League R18","Coopers Stadium","2015-02-21T08:30:00+00:00","
+							Attendance
+							9,212
+						","Attendance","9,212","14/15"
+"494","
+						Wellington Phoenix
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R18","Hutt Recreational Ground","8,437","
+						Hyundai A-League R18
+						Hutt Recreational Ground
+					","Hyundai A-League R18","Hutt Recreational Ground","2015-02-22T04:00:00+00:00","
+							Attendance
+							8,437
+						","Attendance","8,437","14/15"
+"495","
+						Melbourne City FC
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R18","AAMI Park","6,486","
+						Hyundai A-League R18
+						AAMI Park
+					","Hyundai A-League R18","AAMI Park","2015-02-22T06:00:00+00:00","
+							Attendance
+							6,486
+						","Attendance","6,486","14/15"
+"496","
+						Melbourne City FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R19","AAMI Park","7,345","
+						Hyundai A-League R19
+						AAMI Park
+					","Hyundai A-League R19","AAMI Park","2015-02-27T08:40:00+00:00","
+							Attendance
+							7,345
+						","Attendance","7,345","14/15"
+"497","
+						Newcastle Jets
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R19","McDonald Jones Stadium","7,991","
+						Hyundai A-League R19
+						McDonald Jones Stadium
+					","Hyundai A-League R19","McDonald Jones Stadium","2015-02-28T06:00:00+00:00","
+							Attendance
+							7,991
+						","Attendance","7,991","14/15"
+"498","
+						Western Sydney Wanderers FC
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R19","Pirtek Stadium","19,484","
+						Hyundai A-League R19
+						Pirtek Stadium
+					","Hyundai A-League R19","Pirtek Stadium","2015-02-28T08:30:00+00:00","
+							Attendance
+							19,484
+						","Attendance","19,484","14/15"
+"499","
+						Perth Glory
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R19","HBF Park","10,422","
+						Hyundai A-League R19
+						HBF Park
+					","Hyundai A-League R19","HBF Park","2015-02-28T10:30:00+00:00","
+							Attendance
+							10,422
+						","Attendance","10,422","14/15"
+"500","
+						Melbourne Victory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R19","AAMI Park","22,096","
+						Hyundai A-League R19
+						AAMI Park
+					","Hyundai A-League R19","AAMI Park","2015-03-01T06:00:00+00:00","
+							Attendance
+							22,096
+						","Attendance","22,096","14/15"
+"501","
+						Newcastle Jets
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R20","McDonald Jones Stadium","8,783","
+						Hyundai A-League R20
+						McDonald Jones Stadium
+					","Hyundai A-League R20","McDonald Jones Stadium","2015-03-06T08:40:00+00:00","
+							Attendance
+							8,783
+						","Attendance","8,783","14/15"
+"502","
+						Wellington Phoenix
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R20","Hutt Recreational Ground","7,819","
+						Hyundai A-League R20
+						Hutt Recreational Ground
+					","Hyundai A-League R20","Hutt Recreational Ground","2015-03-07T04:00:00+00:00","
+							Attendance
+							7,819
+						","Attendance","7,819","14/15"
+"503","
+						Melbourne Victory
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R20","AAMI Park","22,525","
+						Hyundai A-League R20
+						AAMI Park
+					","Hyundai A-League R20","AAMI Park","2015-03-07T08:30:00+00:00","
+							Attendance
+							22,525
+						","Attendance","22,525","14/15"
+"504","
+						Central Coast Mariners
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R20","Central Coast Stadium","6,079","
+						Hyundai A-League R20
+						Central Coast Stadium
+					","Hyundai A-League R20","Central Coast Stadium","2015-03-08T04:00:00+00:00","
+							Attendance
+							6,079
+						","Attendance","6,079","14/15"
+"505","
+						Brisbane Roar FC
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R20","Suncorp Stadium","12,095","
+						Hyundai A-League R20
+						Suncorp Stadium
+					","Hyundai A-League R20","Suncorp Stadium","2015-03-08T06:00:00+00:00","
+							Attendance
+							12,095
+						","Attendance","12,095","14/15"
+"506","
+						Adelaide United
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R21","Coopers Stadium","7,767","
+						Hyundai A-League R21
+						Coopers Stadium
+					","Hyundai A-League R21","Coopers Stadium","2015-03-12T08:30:00+00:00","
+							Attendance
+							7,767
+						","Attendance","7,767","14/15"
+"507","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R21","Pirtek Stadium","11,073","
+						Hyundai A-League R21
+						Pirtek Stadium
+					","Hyundai A-League R21","Pirtek Stadium","2015-03-13T08:40:00+00:00","
+							Attendance
+							11,073
+						","Attendance","11,073","14/15"
+"508","
+						Sydney FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R21","Allianz Stadium","13,818","
+						Hyundai A-League R21
+						Allianz Stadium
+					","Hyundai A-League R21","Allianz Stadium","2015-03-15T06:00:00+00:00","
+							Attendance
+							13,818
+						","Attendance","13,818","14/15"
+"509","
+						Perth Glory
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R21","HBF Park","9,178","
+						Hyundai A-League R21
+						HBF Park
+					","Hyundai A-League R21","HBF Park","2015-03-14T10:30:00+00:00","
+							Attendance
+							9,178
+						","Attendance","9,178","14/15"
+"510","
+						Melbourne City FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R21","AAMI Park","5,867","
+						Hyundai A-League R21
+						AAMI Park
+					","Hyundai A-League R21","AAMI Park","2015-03-14T08:30:00+00:00","
+							Attendance
+							5,867
+						","Attendance","5,867","14/15"
+"511","
+						Sydney FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R22","Allianz Stadium","11,638","
+						Hyundai A-League R22
+						Allianz Stadium
+					","Hyundai A-League R22","Allianz Stadium","2015-03-20T08:40:00+00:00","
+							Attendance
+							11,638
+						","Attendance","11,638","14/15"
+"512","
+						Western Sydney Wanderers FC
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R22","Pirtek Stadium","10,109","
+						Hyundai A-League R22
+						Pirtek Stadium
+					","Hyundai A-League R22","Pirtek Stadium","2015-03-21T06:00:00+00:00","
+							Attendance
+							10,109
+						","Attendance","10,109","14/15"
+"513","
+						Adelaide United
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R22","Coopers Stadium","16,077","
+						Hyundai A-League R22
+						Coopers Stadium
+					","Hyundai A-League R22","Coopers Stadium","2015-03-21T08:30:00+00:00","
+							Attendance
+							16,077
+						","Attendance","16,077","14/15"
+"514","
+						Central Coast Mariners
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R22","Central Coast Stadium","5,338","
+						Hyundai A-League R22
+						Central Coast Stadium
+					","Hyundai A-League R22","Central Coast Stadium","2015-03-22T04:00:00+00:00","
+							Attendance
+							5,338
+						","Attendance","5,338","14/15"
+"515","
+						Brisbane Roar FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R22","Suncorp Stadium","10,075","
+						Hyundai A-League R22
+						Suncorp Stadium
+					","Hyundai A-League R22","Suncorp Stadium","2015-03-22T06:00:00+00:00","
+							Attendance
+							10,075
+						","Attendance","10,075","14/15"
+"516","
+						Adelaide United
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R27","Coopers Stadium","8,773","
+						Hyundai A-League R27
+						Coopers Stadium
+					","Hyundai A-League R27","Coopers Stadium","2015-04-25T09:30:00+00:00","
+							Attendance
+							8,773
+						","Attendance","8,773","14/15"
+"517","
+						Melbourne Victory
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R23","AAMI Park","18,205","
+						Hyundai A-League R23
+						AAMI Park
+					","Hyundai A-League R23","AAMI Park","2015-03-27T08:40:00+00:00","
+							Attendance
+							18,205
+						","Attendance","18,205","14/15"
+"518","
+						Melbourne City FC
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R23","AAMI Park","9,561","
+						Hyundai A-League R23
+						AAMI Park
+					","Hyundai A-League R23","AAMI Park","2015-03-28T08:30:00+00:00","
+							Attendance
+							9,561
+						","Attendance","9,561","14/15"
+"519","
+						Perth Glory
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R23","HBF Park","9,415","
+						Hyundai A-League R23
+						HBF Park
+					","Hyundai A-League R23","HBF Park","2015-03-28T10:30:00+00:00","
+							Attendance
+							9,415
+						","Attendance","9,415","14/15"
+"520","
+						Wellington Phoenix
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R23","Westpac Stadium","6,236","
+						Hyundai A-League R23
+						Westpac Stadium
+					","Hyundai A-League R23","Westpac Stadium","2015-03-29T04:00:00+00:00","
+							Attendance
+							6,236
+						","Attendance","6,236","14/15"
+"521","
+						Newcastle Jets
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R23","McDonald Jones Stadium","6,888","
+						Hyundai A-League R23
+						McDonald Jones Stadium
+					","Hyundai A-League R23","McDonald Jones Stadium","2015-03-29T06:00:00+00:00","
+							Attendance
+							6,888
+						","Attendance","6,888","14/15"
+"522","
+						Brisbane Roar FC
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R24","Suncorp Stadium","6,148","
+						Hyundai A-League R24
+						Suncorp Stadium
+					","Hyundai A-League R24","Suncorp Stadium","2015-04-02T09:00:00+00:00","
+							Attendance
+							6,148
+						","Attendance","6,148","14/15"
+"523","
+						Western Sydney Wanderers FC
+
+						","
+						Melbourne City FC
+
+						","Hyundai A-League R24","Pirtek Stadium","9,054","
+						Hyundai A-League R24
+						Pirtek Stadium
+					","Hyundai A-League R24","Pirtek Stadium","2015-04-03T08:40:00+00:00","
+							Attendance
+							9,054
+						","Attendance","9,054","14/15"
+"524","
+						Sydney FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R24","Allianz Stadium","11,585","
+						Hyundai A-League R24
+						Allianz Stadium
+					","Hyundai A-League R24","Allianz Stadium","2015-04-04T08:30:00+00:00","
+							Attendance
+							11,585
+						","Attendance","11,585","14/15"
+"525","
+						Wellington Phoenix
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R24","Westpac Stadium","8,417","
+						Hyundai A-League R24
+						Westpac Stadium
+					","Hyundai A-League R24","Westpac Stadium","2015-04-05T07:00:00+00:00","
+							Attendance
+							8,417
+						","Attendance","8,417","14/15"
+"526","
+						Newcastle Jets
+
+						","
+						Perth Glory
+
+						","Hyundai A-League R24","McDonald Jones Stadium","4,162","
+						Hyundai A-League R24
+						McDonald Jones Stadium
+					","Hyundai A-League R24","McDonald Jones Stadium","2015-04-06T07:00:00+00:00","
+							Attendance
+							4,162
+						","Attendance","4,162","14/15"
+"527","
+						Melbourne Victory
+
+						","
+						Newcastle Jets
+
+						","Hyundai A-League R25","AAMI Park","19,277","
+						Hyundai A-League R25
+						AAMI Park
+					","Hyundai A-League R25","AAMI Park","2015-04-10T09:40:00+00:00","
+							Attendance
+							19,277
+						","Attendance","19,277","14/15"
+"528","
+						Perth Glory
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R25","HBF Park","7,426","
+						Hyundai A-League R25
+						HBF Park
+					","Hyundai A-League R25","HBF Park","2015-04-10T11:45:00+00:00","
+							Attendance
+							7,426
+						","Attendance","7,426","14/15"
+"529","
+						Adelaide United
+
+						","
+						Brisbane Roar FC
+
+						","Hyundai A-League R25","Coopers Stadium","10,659","
+						Hyundai A-League R25
+						Coopers Stadium
+					","Hyundai A-League R25","Coopers Stadium","2015-04-11T07:00:00+00:00","
+							Attendance
+							10,659
+						","Attendance","10,659","14/15"
+"530","
+						Central Coast Mariners
+
+						","
+						Western Sydney Wanderers FC
+
+						","Hyundai A-League R25","Central Coast Stadium","9,548","
+						Hyundai A-League R25
+						Central Coast Stadium
+					","Hyundai A-League R25","Central Coast Stadium","2015-04-11T09:30:00+00:00","
+							Attendance
+							9,548
+						","Attendance","9,548","14/15"
+"531","
+						Melbourne City FC
+
+						","
+						Wellington Phoenix
+
+						","Hyundai A-League R25","AAMI Park","6,720","
+						Hyundai A-League R25
+						AAMI Park
+					","Hyundai A-League R25","AAMI Park","2015-04-12T07:00:00+00:00","
+							Attendance
+							6,720
+						","Attendance","6,720","14/15"
+"532","
+						Wellington Phoenix
+
+						","
+						Central Coast Mariners
+
+						","Hyundai A-League R26","Westpac Stadium","6,868","
+						Hyundai A-League R26
+						Westpac Stadium
+					","Hyundai A-League R26","Westpac Stadium","2015-04-17T07:30:00+00:00","
+							Attendance
+							6,868
+						","Attendance","6,868","14/15"
+"533","
+						Newcastle Jets
+
+						","
+						Sydney FC
+
+						","Hyundai A-League R26","McDonald Jones Stadium","8,125","
+						Hyundai A-League R26
+						McDonald Jones Stadium
+					","Hyundai A-League R26","McDonald Jones Stadium","2015-04-17T09:45:00+00:00","
+							Attendance
+							8,125
+						","Attendance","8,125","14/15"
+"534","
+						Western Sydney Wanderers FC
+
+						","
+						Adelaide United
+
+						","Hyundai A-League R26","Pirtek Stadium","9,837","
+						Hyundai A-League R26
+						Pirtek Stadium
+					","Hyundai A-League R26","Pirtek Stadium","2015-04-18T07:00:00+00:00","
+							Attendance
+							9,837
+						","Attendance","9,837","14/15"
+"535","
+						Brisbane Roar FC
+
+						","
+						Melbourne Victory
+
+						","Hyundai A-League R26","Suncorp Stadium","11,582","
+						Hyundai A-League R26
+						Suncorp Stadium
+					","Hyundai A-League R26","Suncorp Stadium","2015-04-18T09:30:00+00:00","
+							Attendance
+							11,582
+						","Attendance","11,582","14/15"
